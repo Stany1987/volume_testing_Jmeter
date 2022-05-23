@@ -1,0 +1,1439 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1653279064776,2384,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5962,124,20,20,https://swapi.dev/api/people,2384,0,266
+1653279064775,2424,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,5962,124,20,20,https://swapi.dev/api/people,2424,0,273
+1653279064774,2572,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5962,124,20,20,https://swapi.dev/api/people,2572,0,271
+1653279064776,2613,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5962,124,20,20,https://swapi.dev/api/people,2613,0,280
+1653279064781,2626,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5962,124,20,20,https://swapi.dev/api/people,2626,0,268
+1653279064775,2676,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5962,124,20,20,https://swapi.dev/api/people,2676,0,277
+1653279064784,2728,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5962,124,20,20,https://swapi.dev/api/people,2728,0,304
+1653279064782,2737,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5962,124,20,20,https://swapi.dev/api/people,2737,0,295
+1653279064775,2763,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5962,124,20,20,https://swapi.dev/api/people,2763,0,279
+1653279064784,2762,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,5962,124,20,20,https://swapi.dev/api/people,2762,0,302
+1653279064783,2772,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5962,124,20,20,https://swapi.dev/api/people,2772,0,279
+1653279064783,2780,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5962,124,20,20,https://swapi.dev/api/people,2780,0,285
+1653279064783,2787,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5962,124,20,20,https://swapi.dev/api/people,2787,0,297
+1653279064777,2805,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5962,124,20,20,https://swapi.dev/api/people,2805,0,296
+1653279064781,2808,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5962,124,20,20,https://swapi.dev/api/people,2808,0,312
+1653279064781,2816,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5962,124,20,20,https://swapi.dev/api/people,2816,0,300
+1653279064785,2818,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5962,124,20,20,https://swapi.dev/api/people,2818,0,299
+1653279064781,2830,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5962,124,20,20,https://swapi.dev/api/people,2830,0,314
+1653279064781,2859,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5962,124,20,20,https://swapi.dev/api/people,2859,0,293
+1653279064781,2946,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5962,124,20,20,https://swapi.dev/api/people,2946,0,310
+1653279067167,4629,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,18989,123,20,20,https://swapi.dev/api/films,4629,0,0
+1653279067604,4271,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,18989,123,20,20,https://swapi.dev/api/films,4240,0,0
+1653279067200,4727,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,18989,123,20,20,https://swapi.dev/api/films,4707,0,0
+1653279067452,4586,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,18989,123,20,20,https://swapi.dev/api/films,4567,0,0
+1653279067390,4688,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,18989,123,20,20,https://swapi.dev/api/films,4642,0,0
+1653279067408,4906,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,18989,123,20,20,https://swapi.dev/api/films,4904,0,0
+1653279067547,4829,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,18989,123,20,20,https://swapi.dev/api/films,4826,0,0
+1653279067512,4977,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,18989,123,20,20,https://swapi.dev/api/films,4927,0,0
+1653279067519,4988,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,18989,123,20,20,https://swapi.dev/api/films,4983,0,0
+1653279067590,4963,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,18989,123,20,20,https://swapi.dev/api/films,4938,0,0
+1653279067582,5003,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,18989,123,20,20,https://swapi.dev/api/films,4971,0,0
+1653279067611,5001,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,18989,123,20,20,https://swapi.dev/api/films,5001,0,0
+1653279067539,5088,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,18989,123,20,20,https://swapi.dev/api/films,5085,0,0
+1653279067571,5105,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,18989,123,20,20,https://swapi.dev/api/films,5104,0,0
+1653279067555,5144,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,18989,123,20,20,https://swapi.dev/api/films,5142,0,0
+1653279067564,5264,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,18989,123,20,20,https://swapi.dev/api/films,5254,0,0
+1653279067641,5280,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,18989,123,20,20,https://swapi.dev/api/films,5280,0,0
+1653279071797,1148,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1148,0,0
+1653279067347,5648,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,18989,123,20,20,https://swapi.dev/api/films,5646,0,0
+1653279071928,1081,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1081,0,0
+1653279067727,5388,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,18989,123,20,20,https://swapi.dev/api/films,5370,0,0
+1653279067598,5519,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,18989,123,20,20,https://swapi.dev/api/films,5471,0,0
+1653279072078,1106,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1106,0,0
+1653279071875,1352,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1351,0,0
+1653279072039,1343,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1343,0,0
+1653279072489,1118,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1118,0,0
+1653279072376,1323,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1323,0,0
+1653279072314,1463,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1463,0,0
+1653279072507,1276,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1276,0,0
+1653279072553,1252,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1252,0,0
+1653279072676,1175,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1175,0,0
+1653279072612,1246,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1246,0,0
+1653279072586,1278,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1278,0,0
+1653279072699,1193,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1193,0,0
+1653279072627,1295,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1295,0,0
+1653279072946,1072,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5317,126,20,20,https://swapi.dev/api/vehicles,1072,0,0
+1653279072921,1202,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1202,0,0
+1653279072995,1155,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1155,0,0
+1653279072828,1353,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1353,0,0
+1653279073009,1296,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,5317,126,20,20,https://swapi.dev/api/vehicles,1295,0,0
+1653279073185,1322,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5317,126,20,20,https://swapi.dev/api/vehicles,1322,0,0
+1653279073116,1404,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1404,0,0
+1653279073117,1427,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,6297,127,20,20,https://swapi.dev/api/starships,1427,0,0
+1653279073383,1232,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5317,126,20,20,https://swapi.dev/api/vehicles,1232,0,0
+1653279073227,1397,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5317,126,20,20,https://swapi.dev/api/vehicles,1397,0,0
+1653279073778,1023,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5317,126,20,20,https://swapi.dev/api/vehicles,1023,0,0
+1653279073805,1038,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5317,126,20,20,https://swapi.dev/api/vehicles,1038,0,0
+1653279073784,1128,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1128,0,0
+1653279073607,1377,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1377,0,0
+1653279073859,1127,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1127,0,0
+1653279073865,1124,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1124,0,0
+1653279073852,1187,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1187,0,0
+1653279073892,1178,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1178,0,0
+1653279073700,1385,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1385,0,0
+1653279074151,995,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,995,0,0
+1653279073922,1335,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1335,0,0
+1653279074181,1137,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1137,0,0
+1653279074123,1201,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1201,0,0
+1653279074018,1532,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1532,0,0
+1653279074544,1006,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1006,0,0
+1653279074520,1035,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5317,126,40,40,https://swapi.dev/api/vehicles,1035,0,0
+1653279074305,1326,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1326,0,0
+1653279074624,1298,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1298,0,0
+1653279074508,1535,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1535,0,0
+1653279074615,1856,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1856,0,0
+1653279074802,1853,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1853,0,0
+1653279074913,1759,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1759,0,0
+1653279074984,1726,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5834,125,40,40,https://swapi.dev/api/planets,1726,0,0
+1653279074843,2243,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2243,0,0
+1653279075039,2195,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2195,0,0
+1653279074986,2330,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2330,0,0
+1653279074989,2460,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2460,0,0
+1653279075146,2483,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2483,0,0
+1653279075257,2590,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2590,0,0
+1653279075070,2778,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2778,0,0
+1653279075325,2599,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2599,0,0
+1653279075318,2726,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2726,0,0
+1653279075555,2570,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2570,0,0
+1653279075551,2968,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5834,125,40,40,https://swapi.dev/api/planets,2968,0,0
+1653279074864,3661,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,5962,124,40,40,https://swapi.dev/api/people,3661,0,127
+1653279074869,3694,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,5962,124,40,40,https://swapi.dev/api/people,3694,0,128
+1653279074874,3716,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,5962,124,40,40,https://swapi.dev/api/people,3716,0,123
+1653279074864,3732,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,5962,124,40,40,https://swapi.dev/api/people,3732,0,128
+1653279074873,4056,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,5962,124,40,40,https://swapi.dev/api/people,4056,0,122
+1653279074878,4060,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,5962,124,40,40,https://swapi.dev/api/people,4060,0,125
+1653279074863,4126,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,5962,124,40,40,https://swapi.dev/api/people,4126,0,128
+1653279074869,4130,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,5962,124,40,40,https://swapi.dev/api/people,4130,0,127
+1653279074865,4204,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,5962,124,40,40,https://swapi.dev/api/people,4204,0,129
+1653279075086,4156,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,5834,125,40,40,https://swapi.dev/api/planets,4156,0,0
+1653279074863,4669,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,5962,124,40,40,https://swapi.dev/api/people,4669,0,130
+1653279075632,4032,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,5962,124,40,40,https://swapi.dev/api/people,4032,0,130
+1653279074878,5074,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,5962,124,40,40,https://swapi.dev/api/people,5074,0,125
+1653279075551,4490,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5962,124,40,40,https://swapi.dev/api/people,4490,0,126
+1653279074888,5372,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,5962,124,40,40,https://swapi.dev/api/people,5372,0,123
+1653279074889,5373,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,5962,124,40,40,https://swapi.dev/api/people,5373,0,141
+1653279074890,5380,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,5962,124,40,40,https://swapi.dev/api/people,5380,0,125
+1653279074883,5394,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-35,text,true,,5962,124,40,40,https://swapi.dev/api/people,5394,0,123
+1653279075925,4394,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5962,124,40,40,https://swapi.dev/api/people,4394,0,126
+1653279074886,5621,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,5962,124,40,40,https://swapi.dev/api/people,5621,0,130
+1653279074880,5627,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,5962,124,40,40,https://swapi.dev/api/people,5627,0,127
+1653279074885,5624,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,5962,124,40,40,https://swapi.dev/api/people,5624,0,136
+1653279074883,5696,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,5962,124,40,40,https://swapi.dev/api/people,5696,0,127
+1653279074891,5881,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-38,text,true,,5962,124,40,40,https://swapi.dev/api/people,5881,0,139
+1653279076044,4729,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5962,124,40,40,https://swapi.dev/api/people,4729,0,128
+1653279076673,4201,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5962,124,40,40,https://swapi.dev/api/people,4201,0,127
+1653279076472,4411,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5962,124,40,40,https://swapi.dev/api/people,4411,0,132
+1653279076712,4277,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5962,124,40,40,https://swapi.dev/api/people,4277,0,122
+1653279076656,4628,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5962,124,40,40,https://swapi.dev/api/people,4628,0,127
+1653279077317,4063,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5962,124,40,40,https://swapi.dev/api/people,4063,0,223
+1653279077235,4356,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5962,124,40,40,https://swapi.dev/api/people,4356,0,232
+1653279077087,4633,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5962,124,40,40,https://swapi.dev/api/people,4633,0,130
+1653279077450,4307,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5962,124,40,40,https://swapi.dev/api/people,4307,0,138
+1653279077849,4152,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5962,124,40,40,https://swapi.dev/api/people,4152,0,118
+1653279078126,3880,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5962,124,40,40,https://swapi.dev/api/people,3880,0,134
+1653279077924,4084,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5962,124,40,40,https://swapi.dev/api/people,4084,0,127
+1653279077630,4429,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5962,124,40,40,https://swapi.dev/api/people,4429,0,130
+1653279077848,4346,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5962,124,40,40,https://swapi.dev/api/people,4346,0,120
+1653279078045,4176,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5962,124,40,40,https://swapi.dev/api/people,4176,0,132
+1653279078520,4300,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5962,124,40,40,https://swapi.dev/api/people,4300,0,122
+1653279079243,3986,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,5962,124,40,40,https://swapi.dev/api/people,3986,0,130
+1653279078596,9383,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,18989,123,60,60,https://swapi.dev/api/films,9381,0,0
+1653279078590,9460,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,18989,123,60,60,https://swapi.dev/api/films,9408,0,0
+1653279078929,9145,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,18989,123,60,60,https://swapi.dev/api/films,9059,0,0
+1653279078564,10132,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,18989,123,60,60,https://swapi.dev/api/films,10131,0,0
+1653279084949,4039,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,5962,124,60,60,https://swapi.dev/api/people,4039,0,145
+1653279079001,10120,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,18989,123,60,60,https://swapi.dev/api/films,10066,0,0
+1653279084952,4426,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,5962,124,60,60,https://swapi.dev/api/people,4426,0,144
+1653279079069,10342,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,18989,123,60,60,https://swapi.dev/api/films,10342,0,0
+1653279084950,4520,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,5962,124,60,60,https://swapi.dev/api/people,4520,0,144
+1653279084949,4582,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,5962,124,60,60,https://swapi.dev/api/people,4582,0,148
+1653279079953,9600,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,18989,123,60,60,https://swapi.dev/api/films,9515,0,0
+1653279084960,4874,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,5962,124,60,60,https://swapi.dev/api/people,4874,0,139
+1653279078526,11324,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,18989,123,60,60,https://swapi.dev/api/films,11224,0,0
+1653279084952,4981,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-45,text,true,,5962,124,60,60,https://swapi.dev/api/people,4981,0,143
+1653279084963,4978,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,5962,124,60,60,https://swapi.dev/api/people,4978,0,136
+1653279084960,4995,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,5962,124,60,60,https://swapi.dev/api/people,4995,0,150
+1653279084963,5026,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,5962,124,60,60,https://swapi.dev/api/people,5026,0,136
+1653279084964,5116,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,5962,124,60,60,https://swapi.dev/api/people,5116,0,140
+1653279084949,5134,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,5962,124,60,60,https://swapi.dev/api/people,5134,0,168
+1653279078939,11218,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,18989,123,60,60,https://swapi.dev/api/films,11164,0,0
+1653279079532,10747,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,18989,123,60,60,https://swapi.dev/api/films,10736,0,0
+1653279080261,10146,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,18989,123,60,60,https://swapi.dev/api/films,10120,0,0
+1653279078989,11491,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,18989,123,60,60,https://swapi.dev/api/films,11477,0,0
+1653279080042,10496,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,18989,123,60,60,https://swapi.dev/api/films,10466,0,0
+1653279084952,5731,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-47,text,true,,5962,124,60,60,https://swapi.dev/api/people,5731,0,166
+1653279084958,5767,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,5962,124,60,60,https://swapi.dev/api/people,5767,0,176
+1653279079665,11074,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,18989,123,60,60,https://swapi.dev/api/films,11013,0,0
+1653279084955,5810,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,5962,124,60,60,https://swapi.dev/api/people,5810,0,169
+1653279080270,10541,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,18989,123,60,60,https://swapi.dev/api/films,10447,0,0
+1653279084954,5967,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,5962,124,60,60,https://swapi.dev/api/people,5967,0,178
+1653279088075,2880,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2880,0,0
+1653279088050,2936,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2936,0,0
+1653279084959,6090,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-54,text,true,,5962,124,60,60,https://swapi.dev/api/people,6090,0,179
+1653279087980,3082,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,6297,127,60,60,https://swapi.dev/api/starships,3082,0,0
+1653279088697,2623,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2623,0,0
+1653279084955,6370,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,5962,124,60,60,https://swapi.dev/api/people,6370,0,171
+1653279080262,11148,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,18989,123,60,60,https://swapi.dev/api/films,11094,0,0
+1653279084956,6462,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,5962,124,60,60,https://swapi.dev/api/people,6461,0,168
+1653279080884,10545,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,18989,123,60,60,https://swapi.dev/api/films,10495,0,0
+1653279084954,6522,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,5962,124,60,60,https://swapi.dev/api/people,6522,0,182
+1653279080507,10997,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,18989,123,60,60,https://swapi.dev/api/films,10954,0,0
+1653279080989,10564,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,18989,123,60,60,https://swapi.dev/api/films,10555,0,0
+1653279080509,11048,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,18989,123,60,60,https://swapi.dev/api/films,10972,0,0
+1653279084962,6681,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,5962,124,60,60,https://swapi.dev/api/people,6681,0,161
+1653279080579,11077,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,18989,123,60,60,https://swapi.dev/api/films,10982,0,0
+1653279080277,11504,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-35,text,true,,18989,123,60,60,https://swapi.dev/api/films,11435,0,0
+1653279089124,2676,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2676,0,0
+1653279080773,11170,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-38,text,true,,18989,123,60,60,https://swapi.dev/api/films,11075,0,0
+1653279080507,11502,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,18989,123,60,60,https://swapi.dev/api/films,11436,0,0
+1653279080319,11762,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,18989,123,60,60,https://swapi.dev/api/films,11698,0,0
+1653279089411,2690,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2689,0,0
+1653279080773,11364,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,18989,123,60,60,https://swapi.dev/api/films,11316,0,0
+1653279081285,11189,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,18989,123,60,60,https://swapi.dev/api/films,11095,0,0
+1653279080874,11646,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,18989,123,60,60,https://swapi.dev/api/films,11607,0,0
+1653279090407,2147,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2147,0,0
+1653279089553,3086,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,6297,127,60,60,https://swapi.dev/api/starships,3086,0,0
+1653279089851,2815,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2815,0,0
+1653279090157,2588,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2588,0,0
+1653279090538,2250,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2250,0,0
+1653279081380,11624,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,18989,123,60,60,https://swapi.dev/api/films,11624,0,0
+1653279081721,11380,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,18989,123,60,60,https://swapi.dev/api/films,11294,0,0
+1653279081758,11438,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,18989,123,60,60,https://swapi.dev/api/films,11365,0,0
+1653279090480,2733,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2733,0,0
+1653279090986,2263,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2263,0,0
+1653279090956,2314,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2314,0,0
+1653279090279,3046,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,6297,127,60,60,https://swapi.dev/api/starships,3046,0,0
+1653279090740,2637,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2637,0,0
+1653279091062,2401,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2401,0,0
+1653279082009,11525,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,18989,123,60,60,https://swapi.dev/api/films,11484,0,0
+1653279091320,2303,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2302,0,0
+1653279082002,11651,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,18989,123,60,60,https://swapi.dev/api/films,11611,0,0
+1653279082006,11794,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,18989,123,60,60,https://swapi.dev/api/films,11738,0,0
+1653279090811,3144,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,6297,127,60,60,https://swapi.dev/api/starships,3144,0,0
+1653279081591,12474,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,18989,123,60,60,https://swapi.dev/api/films,12474,0,0
+1653279091504,2785,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2785,0,0
+1653279091554,2944,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2944,0,0
+1653279091430,3069,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,6297,127,60,60,https://swapi.dev/api/starships,3069,0,0
+1653279091656,2888,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2888,0,0
+1653279082059,12536,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,18989,123,60,60,https://swapi.dev/api/films,12471,0,0
+1653279092101,2630,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2630,0,0
+1653279091411,3331,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,6297,127,60,60,https://swapi.dev/api/starships,3331,0,0
+1653279091800,2962,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2962,0,0
+1653279092010,2915,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2915,0,0
+1653279092137,2811,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,6297,127,60,60,https://swapi.dev/api/starships,2810,0,0
+1653279082194,12760,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,18989,123,60,60,https://swapi.dev/api/films,12726,0,0
+1653279092745,2243,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2243,0,0
+1653279092640,2361,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,5317,126,60,60,https://swapi.dev/api/vehicles,2361,0,0
+1653279091781,3243,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-35,text,true,,6297,127,80,76,https://swapi.dev/api/starships,3243,0,0
+1653279092788,2290,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2290,0,0
+1653279091944,3161,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-38,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3161,0,0
+1653279091557,3622,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3622,0,0
+1653279092082,3157,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3157,0,0
+1653279092667,2579,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2579,0,0
+1653279092555,2713,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2713,0,0
+1653279082221,13266,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,18989,123,80,80,https://swapi.dev/api/films,13185,0,0
+1653279082821,12678,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,18989,123,80,80,https://swapi.dev/api/films,12641,0,0
+1653279093101,2479,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2479,0,0
+1653279092474,3107,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3107,0,0
+1653279092521,3258,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3258,0,0
+1653279093325,2528,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2528,0,0
+1653279093214,2711,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2711,0,0
+1653279093197,2761,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2761,0,0
+1653279093004,3004,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3004,0,0
+1653279093377,2858,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2858,0,0
+1653279093955,2280,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2280,0,0
+1653279093534,2704,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2704,0,0
+1653279094499,2043,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2043,0,0
+1653279094066,2477,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2477,0,0
+1653279093654,2946,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2946,0,0
+1653279094499,2122,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2122,0,0
+1653279093801,2822,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2822,0,0
+1653279083230,13394,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,18989,123,80,80,https://swapi.dev/api/films,13351,0,0
+1653279094545,2127,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2127,0,0
+1653279093270,3408,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,5834,125,80,80,https://swapi.dev/api/planets,3408,0,0
+1653279094290,2400,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2400,0,0
+1653279094743,2096,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2096,0,0
+1653279094925,2280,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2280,0,0
+1653279093623,3633,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,5834,125,80,80,https://swapi.dev/api/planets,3633,0,0
+1653279093463,3811,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,5834,125,80,80,https://swapi.dev/api/planets,3811,0,0
+1653279095025,2294,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-35,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2294,0,0
+1653279093249,4230,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,5834,125,80,80,https://swapi.dev/api/planets,4230,0,0
+1653279094948,2534,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2534,0,0
+1653279094595,2940,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2940,0,0
+1653279094954,2802,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,6297,127,80,80,https://swapi.dev/api/starships,2802,0,0
+1653279095580,2600,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2600,0,0
+1653279095581,2642,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2641,0,0
+1653279095105,3207,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-38,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3207,0,0
+1653279094731,3601,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,5834,125,80,80,https://swapi.dev/api/planets,3601,0,0
+1653279095239,3143,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3143,0,0
+1653279095958,2695,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2695,0,0
+1653279095180,3662,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3662,0,0
+1653279095779,3067,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3067,0,0
+1653279095499,3347,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3347,0,0
+1653279096008,2839,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,2839,0,0
+1653279095002,3985,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,5834,125,80,80,https://swapi.dev/api/planets,3985,0,0
+1653279094762,4280,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,5834,125,80,80,https://swapi.dev/api/planets,4280,0,0
+1653279094988,4117,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,5834,125,80,80,https://swapi.dev/api/planets,4117,0,0
+1653279095488,3883,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,6297,127,80,80,https://swapi.dev/api/starships,3883,0,0
+1653279095079,4842,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5834,125,80,80,https://swapi.dev/api/planets,4842,0,0
+1653279095853,4212,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,5834,125,80,80,https://swapi.dev/api/planets,4212,0,0
+1653279096600,3564,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3564,0,0
+1653279096543,3633,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3633,0,0
+1653279097756,3291,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3291,0,0
+1653279095926,5226,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5226,0,0
+1653279095019,6959,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-63,text,true,,5962,124,80,80,https://swapi.dev/api/people,6959,0,138
+1653279096238,5756,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,5756,0,0
+1653279095268,6776,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,5834,125,80,80,https://swapi.dev/api/planets,6776,0,0
+1653279096839,5253,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5253,0,0
+1653279095019,7144,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-66,text,true,,5962,124,80,80,https://swapi.dev/api/people,7144,0,136
+1653279095018,7154,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-61,text,true,,5962,124,80,80,https://swapi.dev/api/people,7154,0,139
+1653279096621,5619,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5619,0,0
+1653279095021,7288,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-67,text,true,,5962,124,80,80,https://swapi.dev/api/people,7288,0,146
+1653279097535,4845,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,4845,0,0
+1653279095019,7481,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-62,text,true,,5962,124,80,80,https://swapi.dev/api/people,7481,0,141
+1653279096543,6142,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5834,125,80,80,https://swapi.dev/api/planets,6142,0,0
+1653279099372,3380,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,3380,0,0
+1653279095021,7774,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-70,text,true,,5962,124,80,80,https://swapi.dev/api/people,7774,0,161
+1653279096672,6179,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,5834,125,80,80,https://swapi.dev/api/planets,6179,0,0
+1653279095023,8029,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-73,text,true,,5962,124,80,80,https://swapi.dev/api/people,8029,0,154
+1653279095025,8107,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-77,text,true,,5962,124,80,80,https://swapi.dev/api/people,8107,0,157
+1653279095024,8379,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-74,text,true,,5962,124,80,80,https://swapi.dev/api/people,8379,0,148
+1653279096624,6865,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,6865,0,0
+1653279097205,6295,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,5834,125,80,80,https://swapi.dev/api/planets,6294,0,0
+1653279095026,8484,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-78,text,true,,5962,124,80,80,https://swapi.dev/api/people,8484,0,165
+1653279096235,7442,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,5834,125,80,80,https://swapi.dev/api/planets,7442,0,0
+1653279097482,6250,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5834,125,80,80,https://swapi.dev/api/planets,6250,0,0
+1653279098846,5041,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5317,126,80,80,https://swapi.dev/api/vehicles,5041,0,0
+1653279096691,7233,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,5834,125,80,80,https://swapi.dev/api/planets,7233,0,0
+1653279095027,8978,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-79,text,true,,5962,124,80,80,https://swapi.dev/api/people,8978,0,160
+1653279098180,5826,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5826,0,0
+1653279095019,8991,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-65,text,true,,5962,124,80,80,https://swapi.dev/api/people,8991,0,153
+1653279096235,7788,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,5834,125,80,80,https://swapi.dev/api/planets,7788,0,0
+1653279095022,9011,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-69,text,true,,5962,124,80,80,https://swapi.dev/api/people,9011,0,161
+1653279098382,5693,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5693,0,0
+1653279095019,9063,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-64,text,true,,5962,124,80,80,https://swapi.dev/api/people,9063,0,147
+1653279098223,5863,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5863,0,0
+1653279098313,5840,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-38,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5840,0,0
+1653279097319,6834,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-35,text,true,,5834,125,80,80,https://swapi.dev/api/planets,6834,0,0
+1653279095022,9308,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-68,text,true,,5962,124,80,80,https://swapi.dev/api/people,9308,0,155
+1653279095247,9099,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,5834,125,80,80,https://swapi.dev/api/planets,9099,0,0
+1653279098653,5856,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5856,0,0
+1653279095022,9502,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-71,text,true,,5962,124,80,80,https://swapi.dev/api/people,9502,0,172
+1653279096624,7935,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,6297,127,80,80,https://swapi.dev/api/starships,7935,0,0
+1653279098843,5752,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5752,0,0
+1653279098846,5939,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5834,125,80,80,https://swapi.dev/api/planets,5939,0,0
+1653279096679,8263,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,5962,124,80,80,https://swapi.dev/api/people,8263,0,133
+1653279100164,4791,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5834,125,80,80,https://swapi.dev/api/planets,4791,0,0
+1653279098847,6184,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5834,125,80,80,https://swapi.dev/api/planets,6184,0,0
+1653279095027,10130,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-80,text,true,,5962,124,100,100,https://swapi.dev/api/people,10130,0,160
+1653279100176,5066,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5834,125,100,100,https://swapi.dev/api/planets,5066,0,0
+1653279095024,10632,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-76,text,true,,5962,124,100,100,https://swapi.dev/api/people,10632,0,170
+1653279095024,10634,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-75,text,true,,5962,124,100,100,https://swapi.dev/api/people,10634,0,173
+1653279095023,10837,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-72,text,true,,5962,124,100,100,https://swapi.dev/api/people,10837,0,173
+1653279101047,5633,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5834,125,100,100,https://swapi.dev/api/planets,5632,0,0
+1653279098333,8422,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,5962,124,100,100,https://swapi.dev/api/people,8422,0,123
+1653279097257,9568,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,5962,124,100,100,https://swapi.dev/api/people,9568,0,203
+1653279097480,9366,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,5962,124,100,100,https://swapi.dev/api/people,9366,0,143
+1653279098988,7990,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,5962,124,100,100,https://swapi.dev/api/people,7990,0,141
+1653279089378,17749,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,18989,123,100,100,https://swapi.dev/api/films,17719,0,0
+1653279097275,9880,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,5962,124,100,100,https://swapi.dev/api/people,9880,0,190
+1653279088988,18259,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,18989,123,100,100,https://swapi.dev/api/films,18022,0,0
+1653279099922,7538,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5962,124,100,100,https://swapi.dev/api/people,7538,0,131
+1653279099106,8358,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,5962,124,100,100,https://swapi.dev/api/people,8358,0,140
+1653279100066,7559,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,5962,124,100,100,https://swapi.dev/api/people,7559,0,134
+1653279099043,8630,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,5962,124,100,100,https://swapi.dev/api/people,8630,0,147
+1653279089941,17745,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,18989,123,100,100,https://swapi.dev/api/films,17641,0,0
+1653279101995,6187,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5834,125,100,100,https://swapi.dev/api/planets,6187,0,0
+1653279102752,5610,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5834,125,100,100,https://swapi.dev/api/planets,5610,0,0
+1653279089471,18958,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,18989,123,100,100,https://swapi.dev/api/films,18912,0,0
+1653279089834,18595,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,18989,123,100,100,https://swapi.dev/api/films,18595,0,0
+1653279103490,5442,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5834,125,100,100,https://swapi.dev/api/planets,5442,0,0
+1653279090084,18974,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,18989,123,100,100,https://swapi.dev/api/films,18925,0,0
+1653279089531,19665,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,18989,123,100,100,https://swapi.dev/api/films,19536,0,0
+1653279102381,7064,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5834,125,100,100,https://swapi.dev/api/planets,7064,0,0
+1653279089956,19530,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,18989,123,100,100,https://swapi.dev/api/films,19525,0,0
+1653279089934,19733,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-45,text,true,,18989,123,100,100,https://swapi.dev/api/films,19714,0,0
+1653279101153,8552,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,5962,124,100,100,https://swapi.dev/api/people,8552,0,127
+1653279102092,7682,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,5962,124,100,100,https://swapi.dev/api/people,7682,0,138
+1653279089989,20210,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,18989,123,100,100,https://swapi.dev/api/films,20209,0,0
+1653279103888,6519,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5834,125,100,100,https://swapi.dev/api/planets,6519,0,0
+1653279090725,19701,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,18989,123,100,100,https://swapi.dev/api/films,19597,0,0
+1653279102686,7758,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5962,124,100,100,https://swapi.dev/api/people,7757,0,201
+1653279090081,20392,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,18989,123,100,100,https://swapi.dev/api/films,20326,0,0
+1653279102045,8461,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,5962,124,100,100,https://swapi.dev/api/people,8461,0,130
+1653279102241,8752,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5962,124,100,100,https://swapi.dev/api/people,8752,0,135
+1653279107247,3752,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,6297,127,100,100,https://swapi.dev/api/starships,3752,0,0
+1653279090921,20158,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,18989,123,100,100,https://swapi.dev/api/films,20095,0,0
+1653279103678,7451,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,5962,124,100,100,https://swapi.dev/api/people,7451,0,132
+1653279102852,8322,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,5962,124,100,100,https://swapi.dev/api/people,8322,0,134
+1653279107127,4366,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,6297,127,100,100,https://swapi.dev/api/starships,4366,0,0
+1653279091647,19970,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,18989,123,100,100,https://swapi.dev/api/films,19889,0,0
+1653279091049,20569,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-54,text,true,,18989,123,100,100,https://swapi.dev/api/films,20540,0,0
+1653279091418,20202,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,18989,123,100,100,https://swapi.dev/api/films,20112,0,0
+1653279091325,20682,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,18989,123,100,100,https://swapi.dev/api/films,20510,0,0
+1653279091477,20530,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,18989,123,100,100,https://swapi.dev/api/films,20369,0,0
+1653279090683,21369,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-47,text,true,,18989,123,100,100,https://swapi.dev/api/films,21357,0,0
+1653279090765,21522,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,18989,123,100,100,https://swapi.dev/api/films,21481,0,0
+1653279103500,9221,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,5962,124,100,100,https://swapi.dev/api/people,9221,0,128
+1653279103733,9331,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5962,124,100,100,https://swapi.dev/api/people,9331,0,129
+1653279104347,8843,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,5962,124,100,100,https://swapi.dev/api/people,8843,0,132
+1653279103925,9603,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,5962,124,100,100,https://swapi.dev/api/people,9603,0,128
+1653279104596,9013,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,5962,124,100,100,https://swapi.dev/api/people,9013,0,132
+1653279109059,4838,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,6297,127,100,100,https://swapi.dev/api/starships,4838,0,0
+1653279105114,9107,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-84,text,true,,5962,124,100,100,https://swapi.dev/api/people,9107,0,126
+1653279108430,6032,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,6297,127,100,100,https://swapi.dev/api/starships,6032,0,0
+1653279109668,4795,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-45,text,true,,6297,127,100,100,https://swapi.dev/api/starships,4795,0,0
+1653279105031,9434,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5962,124,100,100,https://swapi.dev/api/people,9434,0,136
+1653279104024,10570,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,5962,124,100,100,https://swapi.dev/api/people,10570,0,141
+1653279108430,6442,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,6297,127,100,100,https://swapi.dev/api/starships,6442,0,0
+1653279109487,5387,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,6297,127,100,100,https://swapi.dev/api/starships,5387,0,0
+1653279105243,10091,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5962,124,120,120,https://swapi.dev/api/people,10091,0,122
+1653279104786,10701,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5962,124,120,120,https://swapi.dev/api/people,10701,0,130
+1653279110200,5492,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,6297,127,120,120,https://swapi.dev/api/starships,5492,0,0
+1653279111000,4999,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4998,0,0
+1653279107686,8688,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,6297,127,120,120,https://swapi.dev/api/starships,8688,0,0
+1653279104956,11759,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5962,124,120,120,https://swapi.dev/api/people,11759,0,135
+1653279111080,5840,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,6297,127,120,120,https://swapi.dev/api/starships,5840,0,0
+1653279105121,11854,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-89,text,true,,5962,124,120,120,https://swapi.dev/api/people,11854,0,126
+1653279105126,12260,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-95,text,true,,5962,124,120,120,https://swapi.dev/api/people,12260,0,139
+1653279111494,5897,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,5897,0,0
+1653279110428,6987,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,6297,127,120,120,https://swapi.dev/api/starships,6987,0,0
+1653279105128,12315,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-96,text,true,,5962,124,120,120,https://swapi.dev/api/people,12315,0,149
+1653279111618,5867,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,6297,127,120,120,https://swapi.dev/api/starships,5867,0,0
+1653279109198,8289,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,6297,127,120,120,https://swapi.dev/api/starships,8289,0,0
+1653279105127,12362,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-86,text,true,,5962,124,120,120,https://swapi.dev/api/people,12362,0,144
+1653279105135,12468,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-93,text,true,,5962,124,120,120,https://swapi.dev/api/people,12468,0,147
+1653279105124,12598,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-91,text,true,,5962,124,120,120,https://swapi.dev/api/people,12598,0,144
+1653279112288,5464,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,6297,127,120,120,https://swapi.dev/api/starships,5464,0,0
+1653279110474,7574,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,6297,127,120,120,https://swapi.dev/api/starships,7574,0,0
+1653279105112,12935,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-82,text,true,,5962,124,120,120,https://swapi.dev/api/people,12935,0,133
+1653279112009,6040,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,6297,127,120,120,https://swapi.dev/api/starships,6040,0,0
+1653279105112,13003,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-81,text,true,,5962,124,120,120,https://swapi.dev/api/people,13003,0,132
+1653279108184,10044,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5962,124,120,120,https://swapi.dev/api/people,10044,0,135
+1653279111622,6668,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,6297,127,120,120,https://swapi.dev/api/starships,6668,0,0
+1653279105118,13216,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-88,text,true,,5962,124,120,120,https://swapi.dev/api/people,13216,0,134
+1653279112053,6370,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-47,text,true,,6297,127,120,120,https://swapi.dev/api/starships,6370,0,0
+1653279114463,3977,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-45,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,3977,0,0
+1653279105115,13413,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-85,text,true,,5962,124,120,120,https://swapi.dev/api/people,13413,0,144
+1653279108934,9600,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5962,124,120,120,https://swapi.dev/api/people,9600,0,133
+1653279112009,6643,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,6297,127,120,120,https://swapi.dev/api/starships,6643,0,0
+1653279113898,4774,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4774,0,0
+1653279109447,9306,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5962,124,120,120,https://swapi.dev/api/people,9306,0,137
+1653279111620,7179,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-54,text,true,,6297,127,120,120,https://swapi.dev/api/starships,7179,0,0
+1653279114873,3942,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,3942,0,0
+1653279105132,13802,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-94,text,true,,5962,124,120,120,https://swapi.dev/api/people,13802,0,156
+1653279110409,8558,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5962,124,120,120,https://swapi.dev/api/people,8558,0,134
+1653279114463,4637,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4637,0,0
+1653279106681,12448,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5962,124,120,120,https://swapi.dev/api/people,12448,0,124
+1653279114873,4282,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4282,0,0
+1653279104559,14818,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,14818,0,0
+1653279105116,14333,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-83,text,true,,5962,124,120,120,https://swapi.dev/api/people,14332,0,129
+1653279115691,4752,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4752,0,0
+1653279116920,4198,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4198,0,0
+1653279104510,16701,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5962,124,120,120,https://swapi.dev/api/people,16701,0,131
+1653279118047,3588,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,3588,0,0
+1653279116374,5462,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,5462,0,0
+1653279117415,4729,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4729,0,0
+1653279115998,6575,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,5834,125,120,120,https://swapi.dev/api/planets,6575,0,0
+1653279118289,4320,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,4320,0,0
+1653279117390,6156,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,5834,125,120,120,https://swapi.dev/api/planets,6156,0,0
+1653279105125,18788,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-90,text,true,,5962,124,120,120,https://swapi.dev/api/people,18788,0,135
+1653279118049,5918,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,5918,0,0
+1653279105133,18969,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-99,text,true,,5962,124,120,120,https://swapi.dev/api/people,18969,0,138
+1653279117751,6543,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,6543,0,0
+1653279115204,9130,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-103,text,true,,5962,124,120,120,https://swapi.dev/api/people,9129,0,131
+1653279118798,5731,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-54,text,true,,5317,126,120,120,https://swapi.dev/api/vehicles,5731,0,0
+1653279105118,19773,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-87,text,true,,5962,124,120,120,https://swapi.dev/api/people,19773,0,145
+1653279115206,9708,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-105,text,true,,5962,124,120,120,https://swapi.dev/api/people,9708,0,130
+1653279105132,19827,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-97,text,true,,5962,124,120,120,https://swapi.dev/api/people,19827,0,154
+1653279105135,19957,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-100,text,true,,5962,124,120,120,https://swapi.dev/api/people,19957,0,136
+1653279105124,20018,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-92,text,true,,5962,124,120,120,https://swapi.dev/api/people,20018,0,128
+1653279117487,7820,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,5317,126,139,128,https://swapi.dev/api/vehicles,7820,0,0
+1653279115212,10506,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-111,text,true,,5962,124,140,140,https://swapi.dev/api/people,10506,0,128
+1653279115210,10573,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-109,text,true,,5962,124,140,140,https://swapi.dev/api/people,10573,0,135
+1653279108363,17676,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5962,124,140,140,https://swapi.dev/api/people,17676,0,133
+1653279119100,6948,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,5834,125,140,140,https://swapi.dev/api/planets,6948,0,0
+1653279117484,8576,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,5317,126,140,140,https://swapi.dev/api/vehicles,8576,0,0
+1653279115205,10882,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-104,text,true,,5962,124,140,140,https://swapi.dev/api/people,10882,0,132
+1653279115203,11253,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-102,text,true,,5962,124,140,140,https://swapi.dev/api/people,11253,0,136
+1653279119156,7903,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,5834,125,140,140,https://swapi.dev/api/planets,7903,0,0
+1653279118651,8522,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,5317,126,140,140,https://swapi.dev/api/vehicles,8522,0,0
+1653279120443,6830,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,5834,125,140,140,https://swapi.dev/api/planets,6830,0,0
+1653279119377,8123,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,5834,125,140,140,https://swapi.dev/api/planets,8123,0,0
+1653279115213,12669,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-112,text,true,,5962,124,140,140,https://swapi.dev/api/people,12669,0,133
+1653279115220,13783,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-118,text,true,,5962,124,140,140,https://swapi.dev/api/people,13783,0,155
+1653279101979,27133,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-63,text,true,,18989,123,140,140,https://swapi.dev/api/films,27133,0,0
+1653279115208,13937,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-107,text,true,,5962,124,140,140,https://swapi.dev/api/people,13937,0,157
+1653279121118,8032,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,5834,125,140,140,https://swapi.dev/api/planets,8032,0,0
+1653279102795,26448,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-70,text,true,,18989,123,140,140,https://swapi.dev/api/films,26422,0,0
+1653279102164,27099,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-66,text,true,,18989,123,140,140,https://swapi.dev/api/films,26921,0,0
+1653279121635,7649,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,5834,125,140,140,https://swapi.dev/api/planets,7649,0,0
+1653279122145,7670,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,5834,125,140,140,https://swapi.dev/api/planets,7670,0,0
+1653279102309,27681,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-67,text,true,,18989,123,140,140,https://swapi.dev/api/films,27615,0,0
+1653279122609,7382,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,5834,125,140,140,https://swapi.dev/api/planets,7382,0,0
+1653279118672,11336,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,5834,125,140,140,https://swapi.dev/api/planets,11336,0,0
+1653279102172,29227,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-61,text,true,,18989,123,140,140,https://swapi.dev/api/films,29149,0,0
+1653279123967,7482,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,5834,125,140,140,https://swapi.dev/api/planets,7482,0,0
+1653279115209,16495,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-108,text,true,,5962,124,140,140,https://swapi.dev/api/people,16495,0,147
+1653279115208,16518,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-106,text,true,,5962,124,140,140,https://swapi.dev/api/people,16517,0,142
+1653279124295,7561,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,5834,125,140,140,https://swapi.dev/api/planets,7561,0,0
+1653279115202,16775,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-101,text,true,,5962,124,140,140,https://swapi.dev/api/people,16775,0,146
+1653279102501,29496,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-62,text,true,,18989,123,140,140,https://swapi.dev/api/films,29422,0,0
+1653279121837,10289,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,5834,125,140,140,https://swapi.dev/api/planets,10289,0,0
+1653279103511,28734,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-78,text,true,,18989,123,140,140,https://swapi.dev/api/films,28646,0,0
+1653279115210,17363,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-110,text,true,,5962,124,140,140,https://swapi.dev/api/people,17363,0,149
+1653279104076,28848,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5962,124,140,140,https://swapi.dev/api/people,28848,0,137
+1653279104007,28975,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5962,124,140,140,https://swapi.dev/api/people,28975,0,135
+1653279124530,8505,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-54,text,true,,5834,125,140,140,https://swapi.dev/api/planets,8505,0,0
+1653279122574,10568,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,5962,124,140,140,https://swapi.dev/api/people,10568,0,135
+1653279115220,18044,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-119,text,true,,5962,124,140,140,https://swapi.dev/api/people,18044,0,160
+1653279115215,18085,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-115,text,true,,5962,124,140,140,https://swapi.dev/api/people,18085,0,135
+1653279104082,29413,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-64,text,true,,18989,123,140,140,https://swapi.dev/api/films,29353,0,0
+1653279118441,15103,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-45,text,true,,5834,125,140,140,https://swapi.dev/api/planets,15103,0,0
+1653279104010,29622,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-65,text,true,,18989,123,140,140,https://swapi.dev/api/films,29590,0,0
+1653279125308,8338,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,5834,125,140,140,https://swapi.dev/api/planets,8338,0,0
+1653279118816,14918,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,5834,125,140,140,https://swapi.dev/api/planets,14918,0,0
+1653279104006,29798,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-79,text,true,,18989,123,140,140,https://swapi.dev/api/films,29667,0,0
+1653279104331,29545,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-68,text,true,,18989,123,140,140,https://swapi.dev/api/films,29459,0,0
+1653279103403,30749,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-74,text,true,,18989,123,140,140,https://swapi.dev/api/films,30703,0,0
+1653279123547,10871,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,5962,124,140,140,https://swapi.dev/api/people,10871,0,134
+1653279126061,8487,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,5834,125,140,140,https://swapi.dev/api/planets,8487,0,0
+1653279127175,7657,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,5834,125,140,140,https://swapi.dev/api/planets,7657,0,0
+1653279106826,28525,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,18989,123,140,140,https://swapi.dev/api/films,28185,0,0
+1653279103052,32697,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-73,text,true,,18989,123,160,160,https://swapi.dev/api/films,32626,0,0
+1653279107674,28141,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,18989,123,160,160,https://swapi.dev/api/films,27940,0,0
+1653279104033,32035,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-69,text,true,,18989,123,160,160,https://swapi.dev/api/films,31802,0,0
+1653279104525,31551,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-71,text,true,,18989,123,160,160,https://swapi.dev/api/films,31295,0,0
+1653279105157,31160,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-80,text,true,,18989,123,160,160,https://swapi.dev/api/films,31006,0,0
+1653279105658,30744,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-75,text,true,,18989,123,160,160,https://swapi.dev/api/films,30454,0,0
+1653279125317,11092,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-133,text,true,,5962,124,160,160,https://swapi.dev/api/people,11092,0,152
+1653279107625,28799,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,18989,123,160,160,https://swapi.dev/api/films,28741,0,0
+1653279125304,11166,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-124,text,true,,5962,124,160,160,https://swapi.dev/api/people,11166,0,152
+1653279105657,30817,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-76,text,true,,18989,123,160,160,https://swapi.dev/api/films,30451,0,0
+1653279129991,6794,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-67,text,true,,6297,127,160,160,https://swapi.dev/api/starships,6794,0,0
+1653279125305,11490,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-126,text,true,,5962,124,160,160,https://swapi.dev/api/people,11490,0,152
+1653279127061,10161,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,5962,124,160,160,https://swapi.dev/api/people,10161,0,172
+1653279129113,8184,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-63,text,true,,6297,127,160,160,https://swapi.dev/api/starships,8184,0,0
+1653279106755,30610,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,18989,123,160,160,https://swapi.dev/api/films,30565,0,0
+1653279103133,34264,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-77,text,true,,18989,123,160,160,https://swapi.dev/api/films,34228,0,0
+1653279106979,30432,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,18989,123,160,160,https://swapi.dev/api/films,30432,0,0
+1653279125304,12202,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-127,text,true,,5962,124,160,160,https://swapi.dev/api/people,12202,0,156
+1653279129263,8261,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-66,text,true,,6297,127,160,160,https://swapi.dev/api/starships,8261,0,0
+1653279127275,10522,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,5962,124,160,160,https://swapi.dev/api/people,10522,0,264
+1653279129244,8628,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-70,text,true,,6297,127,160,160,https://swapi.dev/api/starships,8628,0,0
+1653279104943,33283,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,18989,123,160,160,https://swapi.dev/api/films,33212,0,0
+1653279107155,31330,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,18989,123,160,160,https://swapi.dev/api/films,31139,0,0
+1653279127502,11094,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,5962,124,160,160,https://swapi.dev/api/people,11094,0,129
+1653279131399,7273,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-61,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7273,0,0
+1653279105861,32972,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-72,text,true,,18989,123,160,160,https://swapi.dev/api/films,32530,0,0
+1653279107461,31689,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,18989,123,160,160,https://swapi.dev/api/films,31613,0,0
+1653279131997,7374,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-62,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7374,0,0
+1653279132245,7126,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-78,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7126,0,0
+1653279125313,14115,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-139,text,true,,5962,124,160,160,https://swapi.dev/api/people,14115,0,150
+1653279125303,14150,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-121,text,true,,5962,124,160,160,https://swapi.dev/api/people,14150,0,156
+1653279125307,14354,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-122,text,true,,5962,124,160,160,https://swapi.dev/api/people,14354,0,173
+1653279107464,32244,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,18989,123,160,160,https://swapi.dev/api/films,32224,0,0
+1653279125310,14446,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-132,text,true,,5962,124,160,160,https://swapi.dev/api/people,14446,0,155
+1653279125321,14435,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-138,text,true,,5962,124,160,160,https://swapi.dev/api/people,14435,0,150
+1653279106846,32915,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,18989,123,160,160,https://swapi.dev/api/films,32885,0,0
+1653279125306,14541,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-125,text,true,,5962,124,160,160,https://swapi.dev/api/people,14541,0,160
+1653279129992,9861,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,5962,124,160,160,https://swapi.dev/api/people,9861,0,124
+1653279129284,10718,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,5962,124,160,160,https://swapi.dev/api/people,10718,0,119
+1653279125313,14992,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-129,text,true,,5962,124,160,160,https://swapi.dev/api/people,14992,0,150
+1653279125307,15212,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-128,text,true,,5962,124,160,160,https://swapi.dev/api/people,15212,0,175
+1653279125304,15280,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-123,text,true,,5962,124,160,160,https://swapi.dev/api/people,15280,0,157
+1653279133804,6828,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-79,text,true,,6297,127,160,160,https://swapi.dev/api/starships,6828,0,0
+1653279133495,7141,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-64,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7141,0,0
+1653279109707,30946,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,18989,123,160,160,https://swapi.dev/api/films,30828,0,0
+1653279104087,36648,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5962,124,160,160,https://swapi.dev/api/people,36648,0,131
+1653279133876,6889,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-68,text,true,,6297,127,160,160,https://swapi.dev/api/starships,6889,0,0
+1653279134153,6986,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-74,text,true,,6297,127,160,160,https://swapi.dev/api/starships,6986,0,0
+1653279133633,7631,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-65,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7631,0,0
+1653279129816,11512,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,5962,124,160,160,https://swapi.dev/api/people,11512,0,127
+1653279130009,11707,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,5962,124,160,160,https://swapi.dev/api/people,11707,0,122
+1653279115215,26632,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-114,text,true,,5962,124,160,160,https://swapi.dev/api/people,26632,0,149
+1653279136786,5714,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-67,text,true,,5317,126,160,160,https://swapi.dev/api/vehicles,5714,0,0
+1653279135815,6811,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,6297,127,160,160,https://swapi.dev/api/starships,6811,0,0
+1653279111130,31697,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,18989,123,160,160,https://swapi.dev/api/films,31304,0,0
+1653279132126,10943,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,5962,124,160,160,https://swapi.dev/api/people,10943,0,122
+1653279131450,11672,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,5962,124,160,160,https://swapi.dev/api/people,11672,0,119
+1653279137872,5275,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-70,text,true,,5317,126,160,160,https://swapi.dev/api/vehicles,5275,0,0
+1653279135749,7535,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-73,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7535,0,0
+1653279125315,18115,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-136,text,true,,5962,124,160,160,https://swapi.dev/api/people,18115,0,169
+1653279110995,32456,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,18989,123,160,160,https://swapi.dev/api/films,32358,0,0
+1653279131856,11611,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,5962,124,160,160,https://swapi.dev/api/people,11611,0,121
+1653279136070,7469,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-69,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7469,0,0
+1653279136076,7592,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-71,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7592,0,0
+1653279109775,33956,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,18989,123,160,160,https://swapi.dev/api/films,33879,0,0
+1653279125313,18446,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-140,text,true,,5962,124,160,160,https://swapi.dev/api/people,18446,0,178
+1653279136474,7401,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-76,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7401,0,0
+1653279115219,28800,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-117,text,true,,5962,124,160,160,https://swapi.dev/api/people,28800,0,149
+1653279136318,7752,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-80,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7752,0,0
+1653279110445,33684,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,18989,123,160,160,https://swapi.dev/api/films,33404,0,0
+1653279115218,29145,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-116,text,true,,5962,124,160,160,https://swapi.dev/api/people,29145,0,145
+1653279133647,10799,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,5962,124,160,160,https://swapi.dev/api/people,10799,0,126
+1653279137365,7089,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7089,0,0
+1653279137397,7079,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-77,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7079,0,0
+1653279137296,7182,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-63,text,true,,5317,126,160,160,https://swapi.dev/api/vehicles,7182,0,0
+1653279125318,19413,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-137,text,true,,5962,124,160,160,https://swapi.dev/api/people,19413,0,178
+1653279138227,6559,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,6297,127,160,160,https://swapi.dev/api/starships,6559,0,0
+1653279126050,18755,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,5962,124,160,160,https://swapi.dev/api/people,18755,0,139
+1653279115220,29603,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-120,text,true,,5962,124,160,160,https://swapi.dev/api/people,29603,0,147
+1653279114465,30433,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,18989,123,160,160,https://swapi.dev/api/films,30290,0,0
+1653279115217,29781,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-113,text,true,,5962,124,160,160,https://swapi.dev/api/people,29781,0,152
+1653279129151,15876,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,5962,124,160,160,https://swapi.dev/api/people,15876,0,122
+1653279138485,6595,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,6297,127,160,160,https://swapi.dev/api/starships,6595,0,0
+1653279133035,12079,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-54,text,true,,5962,124,160,160,https://swapi.dev/api/people,12079,0,137
+1653279137411,7975,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,6297,127,160,160,https://swapi.dev/api/starships,7975,0,0
+1653279135351,10039,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,6297,127,160,160,https://swapi.dev/api/starships,10039,0,0
+1653279138672,6849,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-61,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6849,0,0
+1653279114222,31537,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-84,text,true,,18989,123,180,180,https://swapi.dev/api/films,31458,0,0
+1653279139151,6704,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,6297,127,180,180,https://swapi.dev/api/starships,6704,0,0
+1653279139371,6570,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-78,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6570,0,0
+1653279113065,32909,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,18989,123,180,180,https://swapi.dev/api/films,32804,0,0
+1653279139371,6836,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-62,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6836,0,0
+1653279138833,7376,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-72,text,true,,6297,127,180,180,https://swapi.dev/api/starships,7376,0,0
+1653279133735,12526,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,5962,124,180,180,https://swapi.dev/api/people,12526,0,128
+1653279135374,10992,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-142,text,true,,5962,124,180,180,https://swapi.dev/api/people,10992,0,127
+1653279134548,11870,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,5962,124,180,180,https://swapi.dev/api/people,11870,0,131
+1653279135382,11049,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-152,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,180,180,https://swapi.dev/api/people,11049,0,141
+1653279135385,11046,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-154,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,180,180,https://swapi.dev/api/people,11046,0,136
+1653279111176,35513,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,18989,123,180,180,https://swapi.dev/api/films,35477,0,0
+1653279135374,11314,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-143,text,true,,5962,124,180,180,https://swapi.dev/api/people,11314,0,127
+1653279141139,5604,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-74,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,5604,0,0
+1653279141265,5481,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-65,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,5481,0,0
+1653279139708,7318,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,6297,127,180,180,https://swapi.dev/api/starships,7317,0,0
+1653279105133,41894,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-98,text,true,,5962,124,180,180,https://swapi.dev/api/people,41894,0,146
+1653279140765,6671,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-68,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6671,0,0
+1653279134832,12911,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,5962,124,180,180,https://swapi.dev/api/people,12911,0,125
+1653279113611,34355,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,18989,123,180,180,https://swapi.dev/api/films,34218,0,0
+1653279112723,35347,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,18989,123,180,180,https://swapi.dev/api/films,35180,0,0
+1653279125309,22871,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-131,text,true,,5962,124,180,180,https://swapi.dev/api/people,22870,0,178
+1653279125313,22938,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-135,text,true,,5962,124,180,180,https://swapi.dev/api/people,22938,0,168
+1653279140652,7620,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,6297,127,180,180,https://swapi.dev/api/starships,7620,0,0
+1653279142626,5834,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,5834,0,0
+1653279116715,31969,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,18989,123,180,180,https://swapi.dev/api/films,31955,0,0
+1653279113529,35257,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,18989,123,180,180,https://swapi.dev/api/films,35074,0,0
+1653279113192,35780,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,18989,123,180,180,https://swapi.dev/api/films,35630,0,0
+1653279143875,5097,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-76,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,5096,0,0
+1653279135387,13686,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-159,text,true,,5962,124,180,180,https://swapi.dev/api/people,13686,0,154
+1653279114594,34589,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,18989,123,180,180,https://swapi.dev/api/films,34527,0,0
+1653279143284,6022,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-73,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6022,0,0
+1653279143450,5916,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,6297,127,180,180,https://swapi.dev/api/starships,5916,0,0
+1653279140636,8828,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-64,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,8828,0,0
+1653279135385,14717,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-155,text,true,,5962,124,180,180,https://swapi.dev/api/people,14717,0,156
+1653279135390,14714,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-160,text,true,,5962,124,180,180,https://swapi.dev/api/people,14714,0,122
+1653279143539,6573,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-69,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6573,0,0
+1653279115335,34800,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,18989,123,180,180,https://swapi.dev/api/films,34800,0,0
+1653279144786,5619,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,5619,0,0
+1653279135387,15071,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-157,text,true,,5962,124,180,180,https://swapi.dev/api/people,15071,0,155
+1653279144454,6008,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6008,0,0
+1653279135380,15333,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-147,text,true,,5962,124,180,180,https://swapi.dev/api/people,15333,0,136
+1653279136424,14310,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,6297,127,180,180,https://swapi.dev/api/starships,14310,0,0
+1653279135381,15377,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-151,text,true,,5962,124,180,180,https://swapi.dev/api/people,15377,0,155
+1653279145080,5842,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,5842,0,0
+1653279110507,40525,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,18989,123,180,180,https://swapi.dev/api/films,40273,0,0
+1653279118115,32991,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-81,text,true,,18989,123,180,180,https://swapi.dev/api/films,32991,0,0
+1653279136402,14708,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-75,text,true,,6297,127,180,180,https://swapi.dev/api/starships,14708,0,0
+1653279140632,10485,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-79,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,10485,0,0
+1653279144899,6393,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,6297,127,180,180,https://swapi.dev/api/starships,6393,0,0
+1653279116976,34554,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-89,text,true,,18989,123,180,180,https://swapi.dev/api/films,34236,0,0
+1653279143147,8447,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-70,text,true,,5834,125,180,180,https://swapi.dev/api/planets,8447,0,0
+1653279144476,7133,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-77,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,7133,0,0
+1653279139762,11860,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,6297,127,180,180,https://swapi.dev/api/starships,11860,0,0
+1653279145390,6234,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6234,0,0
+1653279145973,5661,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,6297,127,180,180,https://swapi.dev/api/starships,5661,0,0
+1653279118047,33621,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-82,text,true,,18989,123,180,180,https://swapi.dev/api/films,33620,0,0
+1653279117443,34266,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-96,text,true,,18989,123,180,180,https://swapi.dev/api/films,34163,0,0
+1653279135388,16476,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-158,text,true,,5962,124,180,180,https://swapi.dev/api/people,16476,0,140
+1653279135382,16544,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-149,text,true,,5962,124,180,180,https://swapi.dev/api/people,16544,0,141
+1653279117386,34658,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-95,text,true,,18989,123,180,180,https://swapi.dev/api/films,34556,0,0
+1653279145387,6685,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6684,0,0
+1653279135383,16702,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-150,text,true,,5962,124,180,180,https://swapi.dev/api/people,16702,0,150
+1653279118228,33951,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,18989,123,180,180,https://swapi.dev/api/films,33839,0,0
+1653279117722,34506,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-91,text,true,,18989,123,180,180,https://swapi.dev/api/films,34416,0,0
+1653279118335,33901,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-88,text,true,,18989,123,180,180,https://swapi.dev/api/films,33712,0,0
+1653279140583,11736,GetFilms,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-123,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,123,180,180,https://swapi.dev/api/films,11736,0,0
+1653279135384,17045,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-153,text,true,,5962,124,180,180,https://swapi.dev/api/people,17045,0,149
+1653279146209,6279,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-72,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,6279,0,0
+1653279118528,33980,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-85,text,true,,18989,123,180,180,https://swapi.dev/api/films,33860,0,0
+1653279118935,34147,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-94,text,true,,18989,123,180,180,https://swapi.dev/api/films,34147,0,0
+1653279115488,37598,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,18989,123,180,180,https://swapi.dev/api/films,37512,0,0
+1653279144128,9061,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,6297,127,180,180,https://swapi.dev/api/starships,9061,0,0
+1653279144478,8796,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-63,text,true,,5834,125,180,180,https://swapi.dev/api/planets,8796,0,0
+1653279135380,18075,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-148,text,true,,5962,124,180,180,https://swapi.dev/api/people,18075,0,145
+1653279119129,34502,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,18989,123,180,180,https://swapi.dev/api/films,34438,0,0
+1653279147965,5674,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,6297,127,180,180,https://swapi.dev/api/starships,5674,0,0
+1653279145855,7794,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,7794,0,0
+1653279119449,34249,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-83,text,true,,18989,123,180,180,https://swapi.dev/api/films,34143,0,0
+1653279145460,8395,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-170,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,180,180,https://swapi.dev/api/people,8395,0,176
+1653279145461,8395,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-172,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,180,180,https://swapi.dev/api/people,8395,0,179
+1653279117604,36263,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-93,text,true,,18989,123,180,180,https://swapi.dev/api/films,36167,0,0
+1653279117489,36379,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-86,text,true,,18989,123,180,180,https://swapi.dev/api/films,36279,0,0
+1653279145522,8359,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-61,text,true,,5834,125,180,180,https://swapi.dev/api/planets,8359,0,0
+1653279143669,10364,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-71,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,10364,0,0
+1653279149367,4928,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,4928,0,0
+1653279145941,8718,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-78,text,true,,5834,125,180,180,https://swapi.dev/api/planets,8718,0,0
+1653279146207,8471,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-62,text,true,,5834,125,180,180,https://swapi.dev/api/planets,8471,0,0
+1653279118534,36239,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,18989,123,180,180,https://swapi.dev/api/films,36115,0,0
+1653279118966,35986,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,18989,123,180,180,https://swapi.dev/api/films,35836,0,0
+1653279118422,36588,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-47,text,true,,5317,126,180,180,https://swapi.dev/api/vehicles,36588,0,0
+1653279145455,9702,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-162,text,true,,5962,124,180,180,https://swapi.dev/api/people,9702,0,142
+1653279149184,6051,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,6297,127,180,180,https://swapi.dev/api/starships,6051,0,0
+1653279121212,34241,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,18989,123,180,180,https://swapi.dev/api/films,34201,0,0
+1653279147436,8044,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-68,text,true,,5834,125,180,180,https://swapi.dev/api/planets,8044,0,0
+1653279148460,7106,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7106,0,0
+1653279148786,6983,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6983,0,0
+1653279144070,11773,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-80,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,11773,0,0
+1653279151032,5074,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5074,0,0
+1653279145465,10762,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-178,text,true,,5962,124,200,200,https://swapi.dev/api/people,10762,0,168
+1653279150135,6161,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6161,0,0
+1653279146744,9808,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-74,text,true,,5834,125,200,200,https://swapi.dev/api/planets,9808,0,0
+1653279145460,11125,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-171,text,true,,5962,124,200,200,https://swapi.dev/api/people,11125,0,180
+1653279124915,31737,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-105,text,true,,18989,123,200,200,https://swapi.dev/api/films,31669,0,0
+1653279149464,7265,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-64,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7265,0,0
+1653279145458,11561,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-167,text,true,,5962,124,200,200,https://swapi.dev/api/people,11561,0,145
+1653279151635,5504,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5504,0,0
+1653279150406,6856,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,5834,125,200,200,https://swapi.dev/api/planets,6856,0,0
+1653279150923,6812,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,true,,5834,125,200,200,https://swapi.dev/api/planets,6812,0,0
+1653279125096,32708,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-100,text,true,,18989,123,200,200,https://swapi.dev/api/films,32527,0,0
+1653279123913,33940,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-90,text,true,,18989,123,200,200,https://swapi.dev/api/films,33899,0,0
+1653279151531,6446,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-89,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6446,0,0
+1653279145457,12731,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-165,text,true,,5962,124,200,200,https://swapi.dev/api/people,12731,0,144
+1653279145455,13006,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-161,text,true,,5962,124,200,200,https://swapi.dev/api/people,13006,0,146
+1653279152229,6331,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-91,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6331,0,0
+1653279152508,6272,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-85,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6272,0,0
+1653279124892,33912,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-87,text,true,,18989,123,200,200,https://swapi.dev/api/films,33896,0,0
+1653279151609,7222,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-77,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7222,0,0
+1653279152072,6778,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,5834,125,200,200,https://swapi.dev/api/planets,6778,0,0
+1653279148684,10200,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,6297,127,200,200,https://swapi.dev/api/starships,10200,0,0
+1653279145461,13423,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-174,text,true,,5962,124,200,200,https://swapi.dev/api/people,13423,0,155
+1653279145464,13649,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-176,text,true,,5962,124,200,200,https://swapi.dev/api/people,13649,0,155
+1653279150462,8740,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8740,0,0
+1653279142826,16422,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,6297,127,200,200,https://swapi.dev/api/starships,16422,0,0
+1653279153640,5633,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5633,0,0
+1653279153189,6084,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6084,0,0
+1653279125143,34330,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-92,text,true,,18989,123,200,200,https://swapi.dev/api/films,34256,0,0
+1653279125784,33804,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-109,text,true,,18989,123,200,200,https://swapi.dev/api/films,33430,0,0
+1653279150735,8983,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,8983,0,0
+1653279153631,6090,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6090,0,0
+1653279152320,7420,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-123,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7420,0,0
+1653279152237,7571,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-88,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7571,0,0
+1653279151668,8197,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-82,text,true,,6297,127,200,200,https://swapi.dev/api/starships,8197,0,0
+1653279153698,6435,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-83,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6435,0,0
+1653279145455,14801,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-163,text,true,,5962,124,200,200,https://swapi.dev/api/people,14801,0,143
+1653279125720,34557,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-111,text,true,,18989,123,200,200,https://swapi.dev/api/films,34551,0,0
+1653279124961,35334,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-97,text,true,,18989,123,200,200,https://swapi.dev/api/films,35310,0,0
+1653279152044,8427,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-95,text,true,,6297,127,200,200,https://swapi.dev/api/starships,8427,0,0
+1653279126088,34397,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-104,text,true,,18989,123,200,200,https://swapi.dev/api/films,34397,0,0
+1653279146747,13766,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-65,text,true,,5834,125,200,200,https://swapi.dev/api/planets,13766,0,0
+1653279148972,11541,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,6297,127,200,200,https://swapi.dev/api/starships,11541,0,0
+1653279124102,36538,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-99,text,true,,18989,123,200,200,https://swapi.dev/api/films,36323,0,0
+1653279145455,15239,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-164,text,true,,5962,124,200,200,https://swapi.dev/api/people,15239,0,145
+1653279153869,6911,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-86,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6911,0,0
+1653279151624,9187,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,5834,125,200,200,https://swapi.dev/api/planets,9187,0,0
+1653279126457,34359,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-102,text,true,,18989,123,200,200,https://swapi.dev/api/films,34134,0,0
+1653279156107,4885,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,4885,0,0
+1653279118753,42469,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,18989,123,200,200,https://swapi.dev/api/films,42271,0,0
+1653279152179,9192,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,6297,127,200,200,https://swapi.dev/api/starships,9192,0,0
+1653279126041,35443,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,18989,123,200,200,https://swapi.dev/api/films,35348,0,0
+1653279127884,33801,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-112,text,true,,18989,123,200,200,https://swapi.dev/api/films,33614,0,0
+1653279151710,10016,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-96,text,true,,6297,127,200,200,https://swapi.dev/api/starships,10016,0,0
+1653279129149,32687,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-107,text,true,,18989,123,200,200,https://swapi.dev/api/films,32420,0,0
+1653279155453,6472,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6472,0,0
+1653279154034,8058,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-71,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8058,0,0
+1653279154952,7148,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7148,0,0
+1653279153650,8496,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8496,0,0
+1653279148972,13183,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-76,text,true,,5834,125,200,200,https://swapi.dev/api/planets,13183,0,0
+1653279156297,5940,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5940,0,0
+1653279151596,10851,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-70,text,true,,5962,124,200,200,https://swapi.dev/api/people,10851,0,134
+1653279153867,8610,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-93,text,true,,6297,127,200,200,https://swapi.dev/api/starships,8610,0,0
+1653279145458,17092,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-166,text,true,,5962,124,200,200,https://swapi.dev/api/people,17092,0,164
+1653279155769,6965,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6965,0,0
+1653279154296,8571,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8571,0,0
+1653279153274,9803,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-63,text,true,,5962,124,200,200,https://swapi.dev/api/people,9803,0,135
+1653279145458,17694,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-168,text,true,,5962,124,200,200,https://swapi.dev/api/people,17694,0,166
+1653279156651,6835,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-105,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6835,0,0
+1653279151111,12518,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-75,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,12518,0,0
+1653279157977,5929,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-89,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5929,0,0
+1653279145464,18578,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-177,text,true,,5962,124,200,200,https://swapi.dev/api/people,18578,0,143
+1653279148070,16032,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,6297,127,200,200,https://swapi.dev/api/starships,16032,0,0
+1653279155843,8287,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-80,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8287,0,126
+1653279145465,18670,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-180,text,true,,5962,124,200,200,https://swapi.dev/api/people,18670,0,147
+1653279129005,35268,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-118,text,true,,18989,123,200,200,https://swapi.dev/api/films,34955,0,0
+1653279104154,60170,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-38,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,200,200,https://swapi.dev/api/people,60170,0,134
+1653279104155,60183,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-35,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,200,200,https://swapi.dev/api/people,60182,0,144
+1653279146689,17692,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,6297,127,200,200,https://swapi.dev/api/starships,17692,0,0
+1653279157803,6734,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-100,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6734,0,0
+1653279154774,9839,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,6297,127,200,200,https://swapi.dev/api/starships,9839,0,0
+1653279159808,4852,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-88,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,4852,0,0
+1653279158804,6233,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-87,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6233,0,0
+1653279159721,5368,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5368,0,0
+1653279159740,5512,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-123,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5512,0,0
+1653279159473,5969,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-92,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5969,0,0
+1653279160133,5574,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-83,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5574,0,0
+1653279151622,14095,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,14095,0,0
+1653279157139,8627,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8627,0,0
+1653279131726,34056,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-106,text,true,,18989,123,200,200,https://swapi.dev/api/films,33937,0,0
+1653279148272,17614,GetVehicles,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,126,200,200,https://swapi.dev/api/vehicles,17614,0,0
+1653279131977,33920,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-101,text,true,,18989,123,200,200,https://swapi.dev/api/films,33883,0,0
+1653279150113,15993,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-69,text,true,,5834,125,200,200,https://swapi.dev/api/planets,15993,0,0
+1653279153882,12269,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-61,text,true,,5962,124,200,200,https://swapi.dev/api/people,12269,0,128
+1653279147026,19258,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,19258,0,0
+1653279155480,10840,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-68,text,true,,5962,124,200,200,https://swapi.dev/api/people,10840,0,143
+1653279159718,6765,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,5834,125,200,200,https://swapi.dev/api/planets,6765,0,0
+1653279133143,33563,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,18989,123,200,200,https://swapi.dev/api/films,33511,0,0
+1653279131704,35126,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-108,text,true,,18989,123,200,200,https://swapi.dev/api/films,34858,0,0
+1653279161726,5121,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-96,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5121,0,0
+1653279155544,11437,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-182,text,true,,5962,124,200,200,https://swapi.dev/api/people,11437,0,131
+1653279161372,5616,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5616,0,0
+1653279160294,6731,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-97,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6731,0,0
+1653279156730,10402,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-64,text,true,,5962,124,200,200,https://swapi.dev/api/people,10402,0,119
+1653279162477,4710,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-93,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,4710,0,0
+1653279134419,32830,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,18989,123,200,200,https://swapi.dev/api/films,32604,0,0
+1653279124335,42924,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-103,text,true,,18989,123,200,200,https://swapi.dev/api/films,42886,0,0
+1653279160484,6879,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-104,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6879,0,0
+1653279160513,6904,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6904,0,0
+1653279133265,34162,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-119,text,true,,18989,123,200,200,https://swapi.dev/api/films,34020,0,0
+1653279153086,14458,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,6297,127,200,200,https://swapi.dev/api/starships,14458,0,0
+1653279160471,7116,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-95,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,7116,0,0
+1653279160640,7371,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-99,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7371,0,0
+1653279152488,15632,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-72,text,true,,5834,125,200,200,https://swapi.dev/api/planets,15632,0,0
+1653279154660,13527,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-78,text,true,,5962,124,200,200,https://swapi.dev/api/people,13527,0,119
+1653279156553,11636,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-74,text,true,,5962,124,200,200,https://swapi.dev/api/people,11636,0,123
+1653279161684,6569,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-112,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6568,0,0
+1653279155547,12747,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-189,text,true,,5962,124,200,200,https://swapi.dev/api/people,12747,0,153
+1653279132925,35434,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,18989,123,200,200,https://swapi.dev/api/films,35304,0,0
+1653279158832,9597,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-77,text,true,,5962,124,200,200,https://swapi.dev/api/people,9597,0,117
+1653279158780,9810,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-85,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,9810,0,0
+1653279160816,7788,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-102,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7788,0,0
+1653279159865,8797,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-82,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,8797,0,0
+1653279132574,36179,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-110,text,true,,18989,123,200,200,https://swapi.dev/api/films,36057,0,0
+1653279162101,6710,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6710,0,0
+1653279154679,14212,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-62,text,true,,5962,124,200,200,https://swapi.dev/api/people,14212,0,118
+1653279160993,7960,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7960,0,0
+1653279133301,35762,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-115,text,true,,18989,123,200,200,https://swapi.dev/api/films,35663,0,0
+1653279155550,13567,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-191,text,true,,5962,124,200,200,https://swapi.dev/api/people,13567,0,150
+1653279163486,5661,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-105,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5661,0,0
+1653279160276,8920,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-111,text,true,,6297,127,200,200,https://swapi.dev/api/starships,8920,0,0
+1653279153082,16203,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-94,text,true,,6297,127,200,200,https://swapi.dev/api/starships,16203,0,0
+1653279136470,32875,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-124,text,true,,18989,123,200,200,https://swapi.dev/api/films,32728,0,0
+1653279155563,13853,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-200,text,true,,5962,124,200,200,https://swapi.dev/api/people,13853,0,143
+1653279159588,10052,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-109,text,true,,6297,127,200,200,https://swapi.dev/api/starships,10052,0,0
+1653279164102,5550,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5550,0,126
+1653279157263,12472,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,5962,124,200,200,https://swapi.dev/api/people,12472,0,173
+1653279132982,37322,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,18989,123,200,200,https://swapi.dev/api/films,37273,0,0
+1653279165037,5308,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-87,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5308,0,0
+1653279162237,8170,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8170,0,0
+1653279164613,5819,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5819,0,0
+1653279160514,9950,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-65,text,true,,5962,124,200,200,https://swapi.dev/api/people,9950,0,118
+1653279164381,6136,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6136,0,130
+1653279140002,30648,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,18989,123,200,200,https://swapi.dev/api/films,30630,0,0
+1653279137221,33471,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,18989,123,200,200,https://swapi.dev/api/films,33457,0,0
+1653279161484,9444,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,6297,127,200,200,https://swapi.dev/api/starships,9444,0,0
+1653279137796,33299,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,18989,123,200,200,https://swapi.dev/api/films,33257,0,0
+1653279161837,9363,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-107,text,true,,6297,127,200,200,https://swapi.dev/api/starships,9363,0,0
+1653279163906,7427,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-89,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7427,0,0
+1653279159202,12266,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,5962,124,200,200,https://swapi.dev/api/people,12266,0,121
+1653279158885,12730,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,12730,0,0
+1653279164272,7416,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-118,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7416,0,0
+1653279155010,16847,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-47,text,true,,5834,125,200,200,https://swapi.dev/api/planets,16847,0,127
+1653279163630,8365,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-75,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8365,0,129
+1653279155567,16464,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,200,200,https://swapi.dev/api/people,16464,0,144
+1653279155553,16480,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-195,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,200,200,https://swapi.dev/api/people,16479,0,160
+1653279155550,16483,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-196,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,200,200,https://swapi.dev/api/people,16483,0,161
+1653279158561,13475,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-91,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,13475,0,0
+1653279140304,31890,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-129,text,true,,18989,123,200,200,https://swapi.dev/api/films,31825,0,0
+1653279162734,9585,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,5834,125,200,200,https://swapi.dev/api/planets,9585,0,0
+1653279137505,34823,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-127,text,true,,18989,123,200,200,https://swapi.dev/api/films,34673,0,0
+1653279165782,6667,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-106,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6667,0,0
+1653279158851,13819,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,5962,124,200,200,https://swapi.dev/api/people,13819,0,117
+1653279165253,7528,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-123,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7528,0,0
+1653279160780,12088,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-86,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,12088,0,0
+1653279165442,7440,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-92,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,7440,0,125
+1653279166830,6079,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-108,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6079,0,0
+1653279162093,10939,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-71,text,true,,5962,124,200,200,https://swapi.dev/api/people,10939,0,129
+1653279164537,8600,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-100,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,8600,0,0
+1653279167249,6062,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6062,0,0
+1653279155558,17795,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-198,text,true,,5962,124,200,200,https://swapi.dev/api/people,17795,0,139
+1653279139853,33569,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,18989,123,200,200,https://swapi.dev/api/films,33462,0,0
+1653279167545,5891,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5891,0,115
+1653279165887,7659,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7659,0,118
+1653279141716,31922,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,18989,123,200,200,https://swapi.dev/api/films,31742,0,0
+1653279141328,32363,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,18989,123,200,200,https://swapi.dev/api/films,32363,0,0
+1653279168012,5807,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-99,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5807,0,119
+1653279165089,8822,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8822,0,0
+1653279140735,33218,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,18989,123,200,200,https://swapi.dev/api/films,33005,0,0
+1653279169063,5181,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-115,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5181,0,0
+1653279168604,5669,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-102,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5669,0,0
+1653279165707,8575,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-83,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8575,0,133
+1653279139846,34714,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-125,text,true,,18989,123,200,200,https://swapi.dev/api/films,34612,0,0
+1653279169285,5326,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-94,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5326,0,117
+1653279161925,12950,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,12950,0,0
+1653279162147,12728,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,5962,124,200,200,https://swapi.dev/api/people,12728,0,135
+1653279162868,12017,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,5962,124,200,200,https://swapi.dev/api/people,12017,0,131
+1653279160811,14081,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,5962,124,200,200,https://swapi.dev/api/people,14081,0,118
+1653279164131,10875,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-80,text,true,,5962,124,200,200,https://swapi.dev/api/people,10875,0,124
+1653279167259,7767,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-103,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7767,0,0
+1653279161222,13806,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,6297,127,200,200,https://swapi.dev/api/starships,13806,0,0
+1653279168753,6635,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-110,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6635,0,0
+1653279166847,8569,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-96,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8569,0,152
+1653279168360,7105,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7105,0,120
+1653279139452,36122,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-121,text,true,,18989,123,200,200,https://swapi.dev/api/films,35893,0,0
+1653279167363,8292,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-104,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,8292,0,0
+1653279141847,33817,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-114,text,true,,18989,123,200,200,https://swapi.dev/api/films,33735,0,0
+1653279169641,6275,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-109,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6275,0,0
+1653279168253,7767,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-112,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,7767,0,0
+1653279166989,9134,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5834,125,200,200,https://swapi.dev/api/planets,9134,0,0
+1653279143429,32916,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-136,text,true,,18989,123,200,200,https://swapi.dev/api/films,32879,0,0
+1653279171200,5153,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-107,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5153,0,0
+1653279170650,5709,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5709,0,0
+1653279135389,41123,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-156,text,true,,5962,124,200,200,https://swapi.dev/api/people,41123,0,129
+1653279168590,8027,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-85,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8027,0,120
+1653279146366,30379,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-142,text,true,,18989,123,200,200,https://swapi.dev/api/films,30232,0,0
+1653279139755,37092,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-132,text,true,,18989,123,200,200,https://swapi.dev/api/films,37028,0,0
+1653279139755,37236,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-138,text,true,,18989,123,200,200,https://swapi.dev/api/films,37155,0,0
+1653279143468,33804,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,18989,123,200,200,https://swapi.dev/api/films,33582,0,0
+1653279168662,8634,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-82,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8634,0,127
+1653279167188,10126,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-93,text,true,,5834,125,200,200,https://swapi.dev/api/planets,10126,0,120
+1653279143070,34287,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,18989,123,200,200,https://swapi.dev/api/films,34210,0,0
+1653279144805,32625,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,18989,123,200,200,https://swapi.dev/api/films,32466,0,0
+1653279168812,8618,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8618,0,0
+1653279143122,34310,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,18989,123,200,200,https://swapi.dev/api/films,34205,0,0
+1653279170304,7232,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7232,0,122
+1653279171689,5947,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-118,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5947,0,0
+1653279171096,6635,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6635,0,0
+1653279136409,41457,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-133,text,true,,18989,123,200,200,https://swapi.dev/api/films,41444,0,0
+1653279144364,33510,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-116,text,true,,18989,123,200,200,https://swapi.dev/api/films,33242,0,0
+1653279170517,7405,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7405,0,0
+1653279169345,8743,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-124,text,true,,6297,127,200,200,https://swapi.dev/api/starships,8743,0,0
+1653279172910,5286,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-108,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5286,0,0
+1653279139427,38810,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-139,text,true,,18989,123,200,200,https://swapi.dev/api/films,38740,0,0
+1653279174244,4163,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-115,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,4163,0,0
+1653279166484,11929,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,5962,124,200,200,https://swapi.dev/api/people,11929,0,113
+1653279166707,12268,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,6297,127,200,200,https://swapi.dev/api/starships,12268,0,0
+1653279173423,5611,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5611,0,0
+1653279172328,6731,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-127,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6731,0,0
+1653279172036,7062,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-91,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7062,0,143
+1653279144019,35089,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-117,text,true,,18989,123,200,200,https://swapi.dev/api/films,35015,0,0
+1653279147744,31567,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,18989,123,200,200,https://swapi.dev/api/films,31338,0,0
+1653279172450,6874,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-106,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6874,0,0
+1653279144446,34885,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,18989,123,200,200,https://swapi.dev/api/films,34596,0,0
+1653279167025,12494,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-97,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,12494,0,117
+1653279146431,33167,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-152,text,true,,18989,123,200,200,https://swapi.dev/api/films,33080,0,0
+1653279146261,33416,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,18989,123,200,200,https://swapi.dev/api/films,33264,0,0
+1653279146689,33015,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-143,text,true,,18989,123,200,200,https://swapi.dev/api/films,32839,0,0
+1653279175388,4358,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-110,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,4358,0,129
+1653279173137,6627,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-100,text,true,,5834,125,200,200,https://swapi.dev/api/planets,6627,0,131
+1653279172882,6928,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-92,text,true,,5834,125,200,200,https://swapi.dev/api/planets,6928,0,0
+1653279169653,10169,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,5834,125,200,200,https://swapi.dev/api/planets,10169,0,0
+1653279146431,33443,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-154,text,true,,18989,123,200,200,https://swapi.dev/api/films,33402,0,0
+1653279155550,24564,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-194,text,true,,5962,124,200,200,https://swapi.dev/api/people,24564,0,154
+1653279168954,11223,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,5962,124,200,200,https://swapi.dev/api/people,11223,0,117
+1653279145027,35248,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,18989,123,200,200,https://swapi.dev/api/films,35091,0,0
+1653279175027,5254,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-103,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5254,0,0
+1653279146418,34040,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,18989,123,200,200,https://swapi.dev/api/films,33732,0,0
+1653279173953,6715,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6715,0,131
+1653279172868,7904,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-86,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7904,0,133
+1653279175028,5785,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5784,0,129
+1653279172194,8864,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-129,text,true,,6297,127,200,200,https://swapi.dev/api/starships,8864,0,0
+1653279155547,25622,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-190,text,true,,5962,124,200,200,https://swapi.dev/api/people,25622,0,149
+1653279171857,9412,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-47,text,true,,5962,124,200,200,https://swapi.dev/api/people,9412,0,130
+1653279144824,36496,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-120,text,true,,18989,123,200,200,https://swapi.dev/api/films,36447,0,0
+1653279142501,39018,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-67,text,true,,5834,125,200,200,https://swapi.dev/api/planets,39018,0,0
+1653279169196,12418,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-111,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,12418,0,0
+1653279150713,30924,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-147,text,true,,18989,123,200,200,https://swapi.dev/api/films,30785,0,0
+1653279155544,26164,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-181,text,true,,5962,124,200,200,https://swapi.dev/api/people,26164,0,131
+1653279171334,10383,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-89,text,true,,5962,124,200,200,https://swapi.dev/api/people,10383,0,115
+1653279155548,26231,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-192,text,true,,5962,124,200,200,https://swapi.dev/api/people,26231,0,141
+1653279143730,38111,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,6297,127,200,200,https://swapi.dev/api/starships,38111,0,0
+1653279174611,7445,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-94,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7445,0,0
+1653279147028,35041,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-98,text,true,,18989,123,200,200,https://swapi.dev/api/films,34865,0,0
+1653279149074,33092,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-159,text,true,,18989,123,200,200,https://swapi.dev/api/films,33002,0,0
+1653279176346,5922,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-136,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5922,0,0
+1653279174273,8070,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-102,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8070,0,0
+1653279173639,8861,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,6297,127,200,200,https://swapi.dev/api/starships,8861,0,0
+1653279177732,4813,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,4813,0,0
+1653279148179,34431,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-131,text,true,,18989,123,200,200,https://swapi.dev/api/films,34287,0,0
+1653279176992,5658,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-138,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5658,0,0
+1653279169148,13551,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-105,text,true,,5834,125,200,200,https://swapi.dev/api/planets,13550,0,0
+1653279143758,38975,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-140,text,true,,18989,123,200,200,https://swapi.dev/api/films,38886,0,0
+1653279176021,7160,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-112,text,true,,5834,125,200,200,https://swapi.dev/api/planets,7160,0,128
+1653279173312,9869,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,9869,0,0
+1653279153455,29838,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-148,text,true,,18989,123,200,200,https://swapi.dev/api/films,29753,0,0
+1653279152429,30961,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-153,text,true,,18989,123,200,200,https://swapi.dev/api/films,30784,0,0
+1653279178975,4424,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,4424,0,0
+1653279174875,8622,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8622,0,128
+1653279178089,5604,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-124,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,5604,0,0
+1653279171997,11769,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-75,text,true,,5962,124,200,200,https://swapi.dev/api/people,11769,0,134
+1653279172321,11455,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,5962,124,200,200,https://swapi.dev/api/people,11455,0,131
+1653279150458,33335,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-157,text,true,,18989,123,200,200,https://swapi.dev/api/films,33172,0,0
+1653279177867,5947,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-133,text,true,,6297,127,200,200,https://swapi.dev/api/starships,5947,0,0
+1653279175465,8661,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,8661,0,0
+1653279172782,11369,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-123,text,true,,5962,124,200,200,https://swapi.dev/api/people,11369,0,134
+1653279177273,7129,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7129,0,0
+1653279177536,6866,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5317,126,200,200,https://swapi.dev/api/vehicles,6866,0,0
+1653279176847,7557,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-132,text,true,,6297,127,200,200,https://swapi.dev/api/starships,7557,0,0
+1653279175655,8781,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-104,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8781,0,130
+1653279178237,6554,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-139,text,true,,6297,127,200,200,https://swapi.dev/api/starships,6554,0,0
+1653279175916,8878,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-109,text,true,,5834,125,200,200,https://swapi.dev/api/planets,8878,0,126
+1653279144730,40075,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-137,text,true,,18989,123,200,200,https://swapi.dev/api/films,39972,0,0
+1653279151865,32994,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-158,text,true,,18989,123,199,199,https://swapi.dev/api/films,32895,0,0
+1653279179034,5906,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-52,text,true,,5317,126,198,198,https://swapi.dev/api/vehicles,5906,0,0
+1653279138595,46433,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,18989,123,197,197,https://swapi.dev/api/films,46346,0,0
+1653279175664,9423,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-114,text,true,,6297,127,196,196,https://swapi.dev/api/starships,9423,0,133
+1653279177874,7253,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-116,text,true,,6297,127,195,195,https://swapi.dev/api/starships,7253,0,158
+1653279173911,11298,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,5962,124,194,194,https://swapi.dev/api/people,11298,0,133
+1653279176353,8886,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-107,text,true,,5834,125,193,193,https://swapi.dev/api/planets,8886,0,130
+1653279179332,5955,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-41,text,true,,6297,127,192,192,https://swapi.dev/api/starships,5955,0,0
+1653279179311,6111,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-51,text,true,,6297,127,191,191,https://swapi.dev/api/starships,6110,0,0
+1653279179059,6398,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-127,text,true,,5317,126,190,190,https://swapi.dev/api/vehicles,6398,0,0
+1653279179598,5934,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-152,text,true,,6297,127,189,189,https://swapi.dev/api/starships,5934,0,0
+1653279152086,33510,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-150,text,true,,18989,123,188,188,https://swapi.dev/api/films,33366,0,0
+1653279148250,37427,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-135,text,true,,18989,123,187,187,https://swapi.dev/api/films,37427,0,0
+1653279178196,7519,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-108,text,true,,5834,125,186,186,https://swapi.dev/api/planets,7519,0,130
+1653279174283,11441,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-83,text,true,,5962,124,185,185,https://swapi.dev/api/people,11441,0,127
+1653279179704,6030,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-143,text,true,,6297,127,184,184,https://swapi.dev/api/starships,6030,0,0
+1653279180458,5497,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-59,text,true,,6297,127,183,183,https://swapi.dev/api/starships,5497,0,0
+1653279153855,32119,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-170,text,true,,18989,123,182,182,https://swapi.dev/api/films,32119,0,0
+1653279177636,8377,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-118,text,true,,5834,125,181,181,https://swapi.dev/api/planets,8377,0,232
+1653279168121,17903,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-72,text,true,,5962,124,180,180,https://swapi.dev/api/people,17903,0,118
+1653279151926,34175,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-149,text,true,,18989,123,179,179,https://swapi.dev/api/films,34051,0,0
+1653279176754,9391,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-142,text,true,,6297,127,178,178,https://swapi.dev/api/starships,9391,0,0
+1653279181059,5391,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-129,text,true,,5317,126,177,177,https://swapi.dev/api/vehicles,5391,0,0
+1653279180669,5781,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,5317,126,177,177,https://swapi.dev/api/vehicles,5781,0,0
+1653279180275,6198,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-49,text,true,,6297,127,175,175,https://swapi.dev/api/starships,6198,0,0
+1653279177357,9127,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-56,text,true,,6297,127,174,174,https://swapi.dev/api/starships,9127,0,0
+1653279171615,14953,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,5834,125,173,173,https://swapi.dev/api/planets,14953,0,123
+1653279179520,7281,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-97,text,true,,5834,125,172,172,https://swapi.dev/api/planets,7281,0,0
+1653279175417,11487,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-96,text,true,,5962,124,171,171,https://swapi.dev/api/people,11487,0,129
+1653279176124,10826,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,5962,124,170,170,https://swapi.dev/api/people,10826,0,123
+1653279164661,22371,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-88,text,true,,5834,125,169,169,https://swapi.dev/api/planets,22371,0,0
+1653279153856,33191,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-172,text,true,,18989,123,168,168,https://swapi.dev/api/films,33075,0,0
+1653279150758,36292,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-151,text,true,,18989,123,167,167,https://swapi.dev/api/films,36238,0,0
+1653279177297,9787,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-82,text,true,,5962,124,166,166,https://swapi.dev/api/people,9787,0,127
+1653279157019,30232,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-167,text,true,,18989,123,165,165,https://swapi.dev/api/films,30138,0,0
+1653279179875,7411,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-154,text,true,,6297,127,164,164,https://swapi.dev/api/starships,7411,0,0
+1653279181320,6178,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-120,text,true,,6297,127,163,163,https://swapi.dev/api/starships,6178,0,128
+1653279182610,5042,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-131,text,true,,6297,127,162,162,https://swapi.dev/api/starships,5042,0,0
+1653279151292,36594,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,5317,126,161,161,https://swapi.dev/api/vehicles,36594,0,0
+1653279167427,20559,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-119,text,true,,6297,127,160,160,https://swapi.dev/api/starships,20558,0,0
+1653279150103,37926,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-155,text,true,,18989,123,159,159,https://swapi.dev/api/films,37831,0,0
+1653279140518,47570,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-128,text,true,,18989,123,158,158,https://swapi.dev/api/films,47548,0,0
+1653279179108,8984,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-117,text,true,,6297,127,157,157,https://swapi.dev/api/starships,8984,0,133
+1653279182166,6045,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-159,text,true,,6297,127,156,156,https://swapi.dev/api/starships,6045,0,0
+1653279175574,12681,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-121,text,true,,6297,127,155,155,https://swapi.dev/api/starships,12681,0,0
+1653279179746,8569,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-110,text,true,,5834,125,154,154,https://swapi.dev/api/planets,8568,0,0
+1653279156227,32175,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-178,text,true,,18989,123,153,153,https://swapi.dev/api/films,32060,0,0
+1653279184402,4107,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-50,text,true,,5317,126,152,152,https://swapi.dev/api/vehicles,4107,0,0
+1653279125314,63233,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-130,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,151,151,https://swapi.dev/api/people,63233,0,176
+1653279125320,63228,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-134,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,150,150,https://swapi.dev/api/people,63228,0,170
+1653279179098,9492,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-91,text,true,,5962,124,149,149,https://swapi.dev/api/people,9492,0,137
+1653279156586,32040,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-171,text,true,,18989,123,148,148,https://swapi.dev/api/films,31987,0,0
+1653279151107,37586,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-81,text,true,,6297,127,147,147,https://swapi.dev/api/starships,37586,0,0
+1653279180281,8420,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-103,text,true,,5834,125,146,146,https://swapi.dev/api/planets,8420,0,134
+1653279184405,4400,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-132,text,true,,5317,126,145,145,https://swapi.dev/api/vehicles,4400,0,0
+1653279182734,6380,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-140,text,true,,6297,127,144,144,https://swapi.dev/api/starships,6380,0,0
+1653279184791,4323,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-139,text,true,,5317,126,144,144,https://swapi.dev/api/vehicles,4323,0,0
+1653279182651,6620,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-138,text,true,,5317,126,142,142,https://swapi.dev/api/vehicles,6620,0,0
+1653279150105,39261,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-160,text,true,,18989,123,141,141,https://swapi.dev/api/films,39202,0,0
+1653279177431,11953,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,5962,124,140,140,https://swapi.dev/api/people,11953,0,125
+1653279176618,12793,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-85,text,true,,5962,124,139,139,https://swapi.dev/api/people,12793,0,128
+1653279151117,38294,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-79,text,true,,5834,125,139,139,https://swapi.dev/api/planets,38294,0,0
+1653279183794,5659,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-157,text,true,,6297,127,137,137,https://swapi.dev/api/starships,5659,0,0
+1653279170929,18605,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,5317,126,136,136,https://swapi.dev/api/vehicles,18605,0,122
+1653279181637,7907,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-147,text,true,,6297,127,135,135,https://swapi.dev/api/starships,7907,0,0
+1653279179811,10007,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-92,text,true,,5962,124,134,134,https://swapi.dev/api/people,10007,0,141
+1653279180773,9046,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-86,text,true,,5962,124,134,134,https://swapi.dev/api/people,9046,0,132
+1653279159113,30738,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-176,text,true,,18989,123,132,132,https://swapi.dev/api/films,30738,0,0
+1653279179324,10762,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-106,text,true,,5834,125,131,131,https://swapi.dev/api/planets,10762,0,130
+1653279183293,7765,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-148,text,true,,6297,127,130,130,https://swapi.dev/api/starships,7765,0,0
+1653279182545,8514,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-60,text,true,,5834,125,130,130,https://swapi.dev/api/planets,8514,0,0
+1653279182344,8737,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-102,text,true,,5962,124,128,128,https://swapi.dev/api/people,8737,0,134
+1653279170345,20800,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-87,text,true,,5834,125,127,127,https://swapi.dev/api/planets,20800,0,122
+1653279160694,30531,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-164,text,true,,18989,123,126,126,https://swapi.dev/api/films,30403,0,0
+1653279158461,32782,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-161,text,true,,18989,123,125,125,https://swapi.dev/api/films,32701,0,0
+1653279183497,7828,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,5962,124,124,124,https://swapi.dev/api/people,7828,0,123
+1653279162447,28894,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-70,text,true,,18989,123,123,123,https://swapi.dev/api/films,28893,0,0
+1653279170432,21445,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,5834,125,122,122,https://swapi.dev/api/planets,21445,0,122
+1653279155544,36398,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-183,text,true,,5962,124,121,121,https://swapi.dev/api/people,36398,0,134
+1653279183694,8490,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-124,text,true,,5834,125,120,120,https://swapi.dev/api/planets,8490,0,0
+1653279184436,7816,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-104,text,true,,5962,124,119,119,https://swapi.dev/api/people,7816,0,133
+1653279183182,9145,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-112,text,true,,5962,124,118,118,https://swapi.dev/api/people,9145,0,137
+1653279183399,8976,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-42,text,true,,5834,125,117,117,https://swapi.dev/api/planets,8976,0,136
+1653279155552,36841,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-193,text,true,,5962,124,116,116,https://swapi.dev/api/people,36841,0,140
+1653279181849,10563,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-34,text,true,,5317,126,115,115,https://swapi.dev/api/vehicles,10563,0,128
+1653279182057,10453,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-94,text,true,,5962,124,114,114,https://swapi.dev/api/people,10453,0,133
+1653279180813,11775,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,5834,125,113,113,https://swapi.dev/api/planets,11775,0,0
+1653279158885,33751,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-174,text,true,,18989,123,112,112,https://swapi.dev/api/films,33731,0,0
+1653279177922,14820,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-32,text,true,,5962,124,111,111,https://swapi.dev/api/people,14820,0,129
+1653279163078,29760,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-63,text,true,,18989,123,110,110,https://swapi.dev/api/films,29652,0,0
+1653279162551,30710,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-166,text,true,,18989,123,109,109,https://swapi.dev/api/films,30463,0,0
+1653279182501,10831,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-43,text,true,,5317,126,108,108,https://swapi.dev/api/vehicles,10831,0,0
+1653279184795,8643,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-109,text,true,,5962,124,107,107,https://swapi.dev/api/people,8643,0,121
+1653279173699,19931,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-53,text,true,,6297,127,106,106,https://swapi.dev/api/starships,19931,0,0
+1653279157854,35815,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-90,text,true,,6297,127,105,105,https://swapi.dev/api/starships,35815,0,0
+1653279164135,29547,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-180,text,true,,18989,123,104,104,https://swapi.dev/api/films,29393,0,0
+1653279133545,60164,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-45,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,103,103,https://swapi.dev/api/people,60164,0,129
+1653279182069,11703,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-98,text,true,,6297,127,102,102,https://swapi.dev/api/starships,11703,0,128
+1653279159248,34583,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-37,text,true,,5317,126,101,101,https://swapi.dev/api/vehicles,34583,0,0
+1653279182268,11660,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-136,text,true,,5317,126,100,100,https://swapi.dev/api/vehicles,11660,0,0
+1653279173436,20497,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,5834,125,99,99,https://swapi.dev/api/planets,20497,0,0
+1653279166320,27620,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-68,text,true,,18989,123,98,98,https://swapi.dev/api/films,27563,0,0
+1653279164042,29969,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-177,text,true,,18989,123,97,97,https://swapi.dev/api/films,29858,0,0
+1653279173819,20413,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-99,text,true,,5834,125,96,96,https://swapi.dev/api/planets,20413,0,0
+1653279181614,12752,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-111,text,true,,5834,125,95,95,https://swapi.dev/api/planets,12752,0,137
+1653279179765,14603,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-100,text,true,,5962,124,94,94,https://swapi.dev/api/people,14603,0,135
+1653279164324,30318,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-38,text,true,,18989,123,93,93,https://swapi.dev/api/films,30128,0,125
+1653279155545,39220,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-186,text,true,,5962,124,92,92,https://swapi.dev/api/people,39220,0,133
+1653279179822,14960,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-33,text,true,,5962,124,91,91,https://swapi.dev/api/people,14960,0,131
+1653279155544,39611,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-187,text,true,,5962,124,90,90,https://swapi.dev/api/people,39611,0,131
+1653279183815,11340,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-133,text,true,,5317,126,90,90,https://swapi.dev/api/vehicles,11340,0,0
+1653279170408,24754,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,5962,124,88,88,https://swapi.dev/api/people,24754,0,127
+1653279136794,58401,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-126,text,true,,18989,123,87,87,https://swapi.dev/api/films,58398,0,0
+1653279183390,11811,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-153,text,true,,6297,127,86,86,https://swapi.dev/api/starships,11811,0,0
+1653279164338,30912,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-35,text,true,,18989,123,85,85,https://swapi.dev/api/films,30888,0,127
+1653279168187,27229,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-78,text,true,,18989,123,84,84,https://swapi.dev/api/films,27205,0,0
+1653279176360,19160,GetVehicles,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-58,text,true,,5317,126,83,83,https://swapi.dev/api/vehicles,19160,0,0
+1653279135377,60164,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-146,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,82,82,https://swapi.dev/api/people,60164,0,127
+1653279135374,60167,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-141,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,82,82,https://swapi.dev/api/people,60167,0,128
+1653279135376,60165,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-144,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,82,82,https://swapi.dev/api/people,60165,0,127
+1653279135378,60163,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-145,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,82,82,https://swapi.dev/api/people,60163,0,127
+1653279174560,21103,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-125,text,true,,6297,127,78,78,https://swapi.dev/api/starships,21103,0,0
+1653279173547,22134,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-22,text,true,,5962,124,77,77,https://swapi.dev/api/people,22134,0,132
+1653279159273,36429,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-40,text,true,,5834,125,76,76,https://swapi.dev/api/planets,36429,0,0
+1653279181521,14198,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-67,text,true,,5962,124,75,75,https://swapi.dev/api/people,14198,0,132
+1653279168891,26978,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-62,text,true,,18989,123,74,74,https://swapi.dev/api/films,26957,0,0
+1653279166981,28916,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-182,text,true,,18989,123,73,73,https://swapi.dev/api/films,28851,0,0
+1653279159273,36743,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,5834,125,72,72,https://swapi.dev/api/planets,36743,0,0
+1653279183182,12863,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-46,text,true,,5834,125,71,71,https://swapi.dev/api/planets,12863,0,0
+1653279184126,12135,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,5834,125,70,70,https://swapi.dev/api/planets,12135,0,0
+1653279177430,18955,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-44,text,true,,6297,127,69,69,https://swapi.dev/api/starships,18955,0,0
+1653279177432,19127,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-48,text,true,,6297,127,68,68,https://swapi.dev/api/starships,19127,0,0
+1653279184402,12186,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,5834,125,67,67,https://swapi.dev/api/planets,12186,0,0
+1653279169118,27563,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-191,text,true,,18989,123,66,66,https://swapi.dev/api/films,27505,0,0
+1653279169416,27532,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-200,text,true,,18989,123,65,65,https://swapi.dev/api/films,27515,0,0
+1653279182699,14268,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-105,text,true,,5962,124,64,64,https://swapi.dev/api/people,14267,0,131
+1653279168429,28710,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-77,text,true,,18989,123,63,63,https://swapi.dev/api/films,28664,0,0
+1653279172671,24701,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-31,text,true,,18989,123,62,62,https://swapi.dev/api/films,24701,0,0
+1653279137524,60040,GetVehicles,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-66,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,126,61,61,https://swapi.dev/api/vehicles,60040,0,0
+1653279171469,26105,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-25,text,true,,18989,123,60,60,https://swapi.dev/api/films,26063,0,0
+1653279173032,24587,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-71,text,true,,18989,123,59,59,https://swapi.dev/api/films,24586,0,0
+1653279178407,19224,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-115,text,true,,5834,125,58,58,https://swapi.dev/api/planets,19224,0,136
+1653279179677,18135,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-55,text,true,,6297,127,57,57,https://swapi.dev/api/starships,18135,0,0
+1653279167132,30972,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-64,text,true,,18989,123,56,56,https://swapi.dev/api/films,30944,0,0
+1653279174875,23646,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,18989,123,55,55,https://swapi.dev/api/films,23619,0,0
+1653279177315,21209,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-93,text,true,,5962,124,54,54,https://swapi.dev/api/people,21209,0,129
+1653279174886,23669,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,18989,123,53,53,https://swapi.dev/api/films,23595,0,0
+1653279168189,30389,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-74,text,true,,18989,123,52,52,https://swapi.dev/api/films,30389,0,0
+1653279175007,23605,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-80,text,true,,18989,123,51,51,https://swapi.dev/api/films,23513,0,0
+1653279162156,36745,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-76,text,true,,5962,124,50,50,https://swapi.dev/api/people,36745,0,131
+1653279174892,24174,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-26,text,true,,18989,123,49,49,https://swapi.dev/api/films,24140,0,0
+1653279176513,22700,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-156,text,true,,18989,123,48,48,https://swapi.dev/api/films,22700,0,0
+1653279172033,27199,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-195,text,true,,18989,123,47,47,https://swapi.dev/api/films,27199,0,0
+1653279172034,27361,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-196,text,true,,18989,123,46,46,https://swapi.dev/api/films,27361,0,0
+1653279163153,36270,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-168,text,true,,18989,123,45,45,https://swapi.dev/api/films,36185,0,0
+1653279180114,19315,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-194,text,true,,18989,123,44,44,https://swapi.dev/api/films,19315,0,0
+1653279165897,33538,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-101,text,true,,6297,127,43,43,https://swapi.dev/api/starships,33538,0,0
+1653279181708,17802,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-181,text,true,,18989,123,42,42,https://swapi.dev/api/films,17802,0,0
+1653279181270,18302,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-47,text,true,,18989,123,41,41,https://swapi.dev/api/films,18272,0,0
+1653279139660,60035,GetFilms,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-122,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,123,40,40,https://swapi.dev/api/films,60035,0,0
+1653279165718,34027,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-29,text,true,,5834,125,39,39,https://swapi.dev/api/planets,34027,0,134
+1653279178413,21466,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-21,text,true,,18989,123,38,38,https://swapi.dev/api/films,21459,0,0
+1653279181717,18250,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-89,text,true,,18989,123,37,37,https://swapi.dev/api/films,18234,0,0
+1653279166285,33693,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-30,text,true,,5834,125,36,36,https://swapi.dev/api/planets,33693,0,118
+1653279184151,16161,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-123,text,true,,18989,123,35,35,https://swapi.dev/api/films,16161,0,0
+1653279170464,29957,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-65,text,true,,18989,123,34,34,https://swapi.dev/api/films,29956,0,0
+1653279155157,45295,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-162,text,true,,18989,123,33,33,https://swapi.dev/api/films,45295,0,0
+1653279167587,32865,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-95,text,true,,5834,125,33,33,https://swapi.dev/api/planets,32865,0,115
+1653279183766,16757,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-75,text,true,,18989,123,31,31,https://swapi.dev/api/films,16738,0,0
+1653279183777,16761,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-36,text,true,,18989,123,30,30,https://swapi.dev/api/films,16760,0,0
+1653279172032,28524,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-27,text,true,,18989,123,29,29,https://swapi.dev/api/films,28524,0,0
+1653279167417,33148,GetPlanets,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-24,text,true,,5834,125,28,28,https://swapi.dev/api/planets,33148,0,117
+1653279166107,34476,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-69,text,true,,5962,124,27,27,https://swapi.dev/api/people,34476,0,121
+1653279173354,27291,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-198,text,true,,18989,123,26,26,https://swapi.dev/api/films,27291,0,0
+1653279181170,19544,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-190,text,true,,18989,123,25,25,https://swapi.dev/api/films,19543,0,0
+1653279165767,34954,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,5962,124,24,24,https://swapi.dev/api/people,34954,0,138
+1653279181779,18989,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-192,text,true,,18989,123,23,23,https://swapi.dev/api/films,18989,0,0
+1653279158189,42662,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-165,text,true,,18989,123,22,22,https://swapi.dev/api/films,42661,0,0
+1653279160257,40717,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-163,text,true,,18989,123,21,21,https://swapi.dev/api/films,40717,0,0
+1653279180177,21056,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-39,text,true,,18989,123,20,20,https://swapi.dev/api/films,21055,0,0
+1653279166151,35221,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-61,text,true,,18989,123,19,19,https://swapi.dev/api/films,35221,0,0
+1653279168294,33252,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-189,text,true,,18989,123,18,18,https://swapi.dev/api/films,33252,0,0
+1653279169735,31937,GetFilms,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-28,text,true,,18989,123,17,17,https://swapi.dev/api/films,31937,0,0
+1653279170692,31605,GetStarship,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-57,text,true,,6297,127,16,16,https://swapi.dev/api/starships,31605,0,0
+1653279144999,60044,GetFilms,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-113,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,123,15,15,https://swapi.dev/api/films,60044,0,0
+1653279145114,60035,GetFilms,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,123,14,14,https://swapi.dev/api/films,60035,0,0
+1653279145760,60044,GetStarship,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-84,text,false,Test failed: code expected to contain /200/,308,127,13,13,https://swapi.dev/api/starships,60044,0,0
+1653279155544,51802,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-184,text,true,,5962,124,12,12,https://swapi.dev/api/people,51802,0,139
+1653279155553,51803,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-197,text,true,,5962,124,11,11,https://swapi.dev/api/people,51803,0,140
+1653279155547,51819,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-188,text,true,,5962,124,10,10,https://swapi.dev/api/people,51819,0,139
+1653279145463,63260,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-175,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,9,9,https://swapi.dev/api/people,63260,0,163
+1653279145459,63265,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-169,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,9,9,https://swapi.dev/api/people,63265,0,171
+1653279145461,63266,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-173,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,7,7,https://swapi.dev/api/people,63266,0,170
+1653279145464,63263,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-179,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,7,7,https://swapi.dev/api/people,63263,0,165
+1653279149307,60080,GetPlanets,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-73,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,125,5,5,https://swapi.dev/api/planets,60080,0,0
+1653279155545,55689,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-185,text,true,,5962,124,4,4,https://swapi.dev/api/people,55689,0,170
+1653279155563,55676,GetPeople,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-199,text,true,,5962,124,3,3,https://swapi.dev/api/people,55676,0,151
+1653279155236,60093,GetVehicles,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",308,126,2,2,https://swapi.dev/api/vehicles,60093,0,0
+1653279157735,60163,GetPeople,404,Not Found,bzm - Concurrency Thread Group-ThreadStarter 1-23,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+...]]]
+
+****** comparison: [[[{""count"":82,""next"":""https://swapi.dev/api/people/?page=2"",""previous"":null,""results"":[{""name"":""Luke S...]]]
+
+/",308,124,1,1,https://swapi.dev/api/people,60163,0,125

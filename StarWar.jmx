@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.4.3">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <stringProp name="TestPlan.user_define_classpath"></stringProp>
+    </TestPlan>
+    <hashTree>
+      <com.blazemeter.jmeter.threads.concurrency.ConcurrencyThreadGroup guiclass="com.blazemeter.jmeter.threads.concurrency.ConcurrencyThreadGroupGui" testclass="com.blazemeter.jmeter.threads.concurrency.ConcurrencyThreadGroup" testname="bzm - Concurrency Thread Group" enabled="true">
+        <elementProp name="ThreadGroup.main_controller" elementType="com.blazemeter.jmeter.control.VirtualUserController"/>
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <stringProp name="TargetLevel">200</stringProp>
+        <stringProp name="RampUp">100</stringProp>
+        <stringProp name="Steps">10</stringProp>
+        <stringProp name="Hold">20</stringProp>
+        <stringProp name="LogFilename"></stringProp>
+        <stringProp name="Iterations"></stringProp>
+        <stringProp name="Unit">S</stringProp>
+      </com.blazemeter.jmeter.threads.concurrency.ConcurrencyThreadGroup>
+      <hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="GetPeople" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">swapi.dev</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path">api/people</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="TextResponse" enabled="true">
+            <collectionProp name="Asserion.test_strings">
+              <stringProp name="-819249686">{&quot;count&quot;:82,&quot;next&quot;:&quot;https://swapi.dev/api/people/?page=2&quot;,&quot;previous&quot;:null,&quot;results&quot;:[{&quot;name&quot;:&quot;Luke Skywalker&quot;,&quot;height&quot;:&quot;172&quot;,&quot;mass&quot;:&quot;77&quot;,&quot;hair_color&quot;:&quot;blond&quot;,&quot;skin_color&quot;:&quot;fair&quot;,&quot;eye_color&quot;:&quot;blue&quot;,&quot;birth_year&quot;:&quot;19BBY&quot;,&quot;gender&quot;:&quot;male&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/2/&quot;,&quot;https://swapi.dev/api/films/3/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[],&quot;vehicles&quot;:[&quot;https://swapi.dev/api/vehicles/14/&quot;,&quot;https://swapi.dev/api/vehicles/30/&quot;],&quot;starships&quot;:[&quot;https://swapi.dev/api/starships/12/&quot;,&quot;https://swapi.dev/api/starships/22/&quot;],&quot;created&quot;:&quot;2014-12-09T13:50:51.644000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:56.891000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/1/&quot;},{&quot;name&quot;:&quot;C-3PO&quot;,&quot;height&quot;:&quot;167&quot;,&quot;mass&quot;:&quot;75&quot;,&quot;hair_color&quot;:&quot;n/a&quot;,&quot;skin_color&quot;:&quot;gold&quot;,&quot;eye_color&quot;:&quot;yellow&quot;,&quot;birth_year&quot;:&quot;112BBY&quot;,&quot;gender&quot;:&quot;n/a&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/2/&quot;,&quot;https://swapi.dev/api/films/3/&quot;,&quot;https://swapi.dev/api/films/4/&quot;,&quot;https://swapi.dev/api/films/5/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[&quot;https://swapi.dev/api/species/2/&quot;],&quot;vehicles&quot;:[],&quot;starships&quot;:[],&quot;created&quot;:&quot;2014-12-10T15:10:51.357000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.309000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/2/&quot;},{&quot;name&quot;:&quot;R2-D2&quot;,&quot;height&quot;:&quot;96&quot;,&quot;mass&quot;:&quot;32&quot;,&quot;hair_color&quot;:&quot;n/a&quot;,&quot;skin_color&quot;:&quot;white, blue&quot;,&quot;eye_color&quot;:&quot;red&quot;,&quot;birth_year&quot;:&quot;33BBY&quot;,&quot;gender&quot;:&quot;n/a&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/8/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/2/&quot;,&quot;https://swapi.dev/api/films/3/&quot;,&quot;https://swapi.dev/api/films/4/&quot;,&quot;https://swapi.dev/api/films/5/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[&quot;https://swapi.dev/api/species/2/&quot;],&quot;vehicles&quot;:[],&quot;starships&quot;:[],&quot;created&quot;:&quot;2014-12-10T15:11:50.376000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.311000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/3/&quot;},{&quot;name&quot;:&quot;Darth Vader&quot;,&quot;height&quot;:&quot;202&quot;,&quot;mass&quot;:&quot;136&quot;,&quot;hair_color&quot;:&quot;none&quot;,&quot;skin_color&quot;:&quot;white&quot;,&quot;eye_color&quot;:&quot;yellow&quot;,&quot;birth_year&quot;:&quot;41.9BBY&quot;,&quot;gender&quot;:&quot;male&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/2/&quot;,&quot;https://swapi.dev/api/films/3/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[],&quot;vehicles&quot;:[],&quot;starships&quot;:[&quot;https://swapi.dev/api/starships/13/&quot;],&quot;created&quot;:&quot;2014-12-10T15:18:20.704000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.313000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/4/&quot;},{&quot;name&quot;:&quot;Leia Organa&quot;,&quot;height&quot;:&quot;150&quot;,&quot;mass&quot;:&quot;49&quot;,&quot;hair_color&quot;:&quot;brown&quot;,&quot;skin_color&quot;:&quot;light&quot;,&quot;eye_color&quot;:&quot;brown&quot;,&quot;birth_year&quot;:&quot;19BBY&quot;,&quot;gender&quot;:&quot;female&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/2/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/2/&quot;,&quot;https://swapi.dev/api/films/3/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[],&quot;vehicles&quot;:[&quot;https://swapi.dev/api/vehicles/30/&quot;],&quot;starships&quot;:[],&quot;created&quot;:&quot;2014-12-10T15:20:09.791000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.315000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/5/&quot;},{&quot;name&quot;:&quot;Owen Lars&quot;,&quot;height&quot;:&quot;178&quot;,&quot;mass&quot;:&quot;120&quot;,&quot;hair_color&quot;:&quot;brown, grey&quot;,&quot;skin_color&quot;:&quot;light&quot;,&quot;eye_color&quot;:&quot;blue&quot;,&quot;birth_year&quot;:&quot;52BBY&quot;,&quot;gender&quot;:&quot;male&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/5/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[],&quot;vehicles&quot;:[],&quot;starships&quot;:[],&quot;created&quot;:&quot;2014-12-10T15:52:14.024000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.317000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/6/&quot;},{&quot;name&quot;:&quot;Beru Whitesun lars&quot;,&quot;height&quot;:&quot;165&quot;,&quot;mass&quot;:&quot;75&quot;,&quot;hair_color&quot;:&quot;brown&quot;,&quot;skin_color&quot;:&quot;light&quot;,&quot;eye_color&quot;:&quot;blue&quot;,&quot;birth_year&quot;:&quot;47BBY&quot;,&quot;gender&quot;:&quot;female&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/5/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[],&quot;vehicles&quot;:[],&quot;starships&quot;:[],&quot;created&quot;:&quot;2014-12-10T15:53:41.121000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.319000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/7/&quot;},{&quot;name&quot;:&quot;R5-D4&quot;,&quot;height&quot;:&quot;97&quot;,&quot;mass&quot;:&quot;32&quot;,&quot;hair_color&quot;:&quot;n/a&quot;,&quot;skin_color&quot;:&quot;white, red&quot;,&quot;eye_color&quot;:&quot;red&quot;,&quot;birth_year&quot;:&quot;unknown&quot;,&quot;gender&quot;:&quot;n/a&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;],&quot;species&quot;:[&quot;https://swapi.dev/api/species/2/&quot;],&quot;vehicles&quot;:[],&quot;starships&quot;:[],&quot;created&quot;:&quot;2014-12-10T15:57:50.959000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.321000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/8/&quot;},{&quot;name&quot;:&quot;Biggs Darklighter&quot;,&quot;height&quot;:&quot;183&quot;,&quot;mass&quot;:&quot;84&quot;,&quot;hair_color&quot;:&quot;black&quot;,&quot;skin_color&quot;:&quot;light&quot;,&quot;eye_color&quot;:&quot;brown&quot;,&quot;birth_year&quot;:&quot;24BBY&quot;,&quot;gender&quot;:&quot;male&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;],&quot;species&quot;:[],&quot;vehicles&quot;:[],&quot;starships&quot;:[&quot;https://swapi.dev/api/starships/12/&quot;],&quot;created&quot;:&quot;2014-12-10T15:59:50.509000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.323000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/9/&quot;},{&quot;name&quot;:&quot;Obi-Wan Kenobi&quot;,&quot;height&quot;:&quot;182&quot;,&quot;mass&quot;:&quot;77&quot;,&quot;hair_color&quot;:&quot;auburn, white&quot;,&quot;skin_color&quot;:&quot;fair&quot;,&quot;eye_color&quot;:&quot;blue-gray&quot;,&quot;birth_year&quot;:&quot;57BBY&quot;,&quot;gender&quot;:&quot;male&quot;,&quot;homeworld&quot;:&quot;https://swapi.dev/api/planets/20/&quot;,&quot;films&quot;:[&quot;https://swapi.dev/api/films/1/&quot;,&quot;https://swapi.dev/api/films/2/&quot;,&quot;https://swapi.dev/api/films/3/&quot;,&quot;https://swapi.dev/api/films/4/&quot;,&quot;https://swapi.dev/api/films/5/&quot;,&quot;https://swapi.dev/api/films/6/&quot;],&quot;species&quot;:[],&quot;vehicles&quot;:[&quot;https://swapi.dev/api/vehicles/38/&quot;],&quot;starships&quot;:[&quot;https://swapi.dev/api/starships/48/&quot;,&quot;https://swapi.dev/api/starships/59/&quot;,&quot;https://swapi.dev/api/starships/64/&quot;,&quot;https://swapi.dev/api/starships/65/&quot;,&quot;https://swapi.dev/api/starships/74/&quot;],&quot;created&quot;:&quot;2014-12-10T16:16:29.192000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:50.325000Z&quot;,&quot;url&quot;:&quot;https://swapi.dev/api/people/10/&quot;}]}</stringProp>
+            </collectionProp>
+            <stringProp name="Assertion.custom_message"></stringProp>
+            <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
+            <boolProp name="Assertion.assume_success">false</boolProp>
+            <intProp name="Assertion.test_type">8</intProp>
+          </ResponseAssertion>
+          <hashTree/>
+        </hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="GetFilms" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">swapi.dev</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path">api/films</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="ResponseCode" enabled="true">
+            <collectionProp name="Asserion.test_strings">
+              <stringProp name="49586">200</stringProp>
+            </collectionProp>
+            <stringProp name="Assertion.custom_message"></stringProp>
+            <stringProp name="Assertion.test_field">Assertion.response_code</stringProp>
+            <boolProp name="Assertion.assume_success">false</boolProp>
+            <intProp name="Assertion.test_type">8</intProp>
+          </ResponseAssertion>
+          <hashTree/>
+        </hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="GetStarship" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">swapi.dev</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path">api/starships</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="ResponseCode" enabled="true">
+            <collectionProp name="Asserion.test_strings">
+              <stringProp name="49586">200</stringProp>
+            </collectionProp>
+            <stringProp name="Assertion.custom_message"></stringProp>
+            <stringProp name="Assertion.test_field">Assertion.response_code</stringProp>
+            <boolProp name="Assertion.assume_success">false</boolProp>
+            <intProp name="Assertion.test_type">16</intProp>
+          </ResponseAssertion>
+          <hashTree/>
+        </hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="GetVehicles" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">swapi.dev</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path">api/vehicles</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="ResponseCode" enabled="true">
+            <collectionProp name="Asserion.test_strings">
+              <stringProp name="49586">200</stringProp>
+            </collectionProp>
+            <stringProp name="Assertion.custom_message"></stringProp>
+            <stringProp name="Assertion.test_field">Assertion.response_code</stringProp>
+            <boolProp name="Assertion.assume_success">false</boolProp>
+            <intProp name="Assertion.test_type">8</intProp>
+          </ResponseAssertion>
+          <hashTree/>
+        </hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="GetPlanets" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">swapi.dev</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path">api/planets</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="ResponseCode" enabled="true">
+            <collectionProp name="Asserion.test_strings">
+              <stringProp name="49586">200</stringProp>
+            </collectionProp>
+            <stringProp name="Assertion.custom_message"></stringProp>
+            <stringProp name="Assertion.test_field">Assertion.response_code</stringProp>
+            <boolProp name="Assertion.assume_success">false</boolProp>
+            <intProp name="Assertion.test_type">8</intProp>
+          </ResponseAssertion>
+          <hashTree/>
+        </hashTree>
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>false</xml>
+              <fieldNames>true</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+              <sentBytes>true</sentBytes>
+              <url>true</url>
+              <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
+              <connectTime>true</connectTime>
+            </value>
+          </objProp>
+          <stringProp name="filename">C:\Users\STANY\Desktop\report.TXT</stringProp>
+        </ResultCollector>
+        <hashTree/>
+        <kg.apc.jmeter.vizualizers.CorrectedResultCollector guiclass="kg.apc.jmeter.vizualizers.ThreadsStateOverTimeGui" testclass="kg.apc.jmeter.vizualizers.CorrectedResultCollector" testname="jp@gc - Active Threads Over Time" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>false</xml>
+              <fieldNames>true</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+              <sentBytes>true</sentBytes>
+              <url>true</url>
+              <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
+              <connectTime>true</connectTime>
+            </value>
+          </objProp>
+          <stringProp name="filename"></stringProp>
+          <longProp name="interval_grouping">500</longProp>
+          <boolProp name="graph_aggregated">false</boolProp>
+          <stringProp name="include_sample_labels"></stringProp>
+          <stringProp name="exclude_sample_labels"></stringProp>
+          <stringProp name="start_offset"></stringProp>
+          <stringProp name="end_offset"></stringProp>
+          <boolProp name="include_checkbox_state">false</boolProp>
+          <boolProp name="exclude_checkbox_state">false</boolProp>
+        </kg.apc.jmeter.vizualizers.CorrectedResultCollector>
+        <hashTree/>
+        <kg.apc.jmeter.vizualizers.CorrectedResultCollector guiclass="kg.apc.jmeter.vizualizers.ResponseTimesOverTimeGui" testclass="kg.apc.jmeter.vizualizers.CorrectedResultCollector" testname="jp@gc - Response Times Over Time" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>false</xml>
+              <fieldNames>true</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+              <sentBytes>true</sentBytes>
+              <url>true</url>
+              <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
+              <connectTime>true</connectTime>
+            </value>
+          </objProp>
+          <stringProp name="filename"></stringProp>
+          <longProp name="interval_grouping">500</longProp>
+          <boolProp name="graph_aggregated">false</boolProp>
+          <stringProp name="include_sample_labels"></stringProp>
+          <stringProp name="exclude_sample_labels"></stringProp>
+          <stringProp name="start_offset"></stringProp>
+          <stringProp name="end_offset"></stringProp>
+          <boolProp name="include_checkbox_state">false</boolProp>
+          <boolProp name="exclude_checkbox_state">false</boolProp>
+        </kg.apc.jmeter.vizualizers.CorrectedResultCollector>
+        <hashTree/>
+      </hashTree>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>
